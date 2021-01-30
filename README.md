@@ -1,2 +1,1 @@
-# Pi-hole-Torrent-Website-Tracker-Blocklist
-## sample text
+## How to use?
