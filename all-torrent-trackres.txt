@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Jan 30 13:56:29 UTC 2021
+# Last Update - Sat Jan 30 14:00:05 UTC 2021
 # --------------------------------------------
-# Total domains: 413
+# Total domains: 466
 # --------------------------------------------
-# Total size: 7.4K
+# Total size: 8.3K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -31,6 +31,7 @@ acg.rip
 adm.category5.tv
 admin.videoenpoche.info
 adminion.n-blade.ru
+agusiq-torrents.pl
 ahimsa.yui.cat
 all4nothin.net
 alltorrents.net
@@ -39,11 +40,13 @@ api.bitumconference.ru
 app.icon256.com
 aruacfilmes.com.br
 asger.xyz
+asnet.pw
 atrack.pow7.com
 baibako.tv
 bclearning.top
 benouworldtrip.fr
 big-boss-tracker.net
+bioquantum.co.za
 bit-hdtv.com
 bithq.org
 bitseduce.com
@@ -62,6 +65,7 @@ bt.100.pet
 bt.3dmgame.com
 bt.3kb.xyz
 bt.ali213.net
+bt.aoeex.com
 bt.beatrice-raws.org
 bt.edwardk.info
 bt.firebit.org
@@ -77,6 +81,7 @@ bt2.3kb.xyz
 bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
+bttracker.debian.org
 btx.anifilm.tv
 bubu.mapfactor.com
 camera.lei001.com
@@ -110,6 +115,7 @@ finbytes.org
 forever-tracker.zooki.xyz
 free-tracker.zooki.xyz
 funfile.org
+fxtt.ru
 git.vulnix.sh
 grifon.info
 h4.trakx.nibba.trade
@@ -139,6 +145,7 @@ mediaclub.tv
 megatorrents.kg
 metal.iplay.ro
 mgtracker.org
+milanesitracker.tekcities.com
 milliontorrent.pl
 mixfiend.com
 movies.zsw.ca
@@ -178,6 +185,7 @@ potuk.com
 pow7.com
 prestige.minimafia.nl
 proaudiotorrents.org
+pt.lax.mx
 public-tracker.zooki.xyz
 public.popcorn-tracker.org
 public.publictracker.xyz
@@ -186,16 +194,21 @@ publictracker.xyz
 qg.lorzl.gq
 retracker.akado-ural.ru
 retracker.baikal-telecom.net
+retracker.bashtel.ru
+retracker.gorcomnet.ru
 retracker.hotplug.ru
 retracker.krs-ix.ru
 retracker.lanta-net.ru
 retracker.local.msn-net.ru
+retracker.mgts.by
 retracker.netbynet.ru
 retracker.nts.su
 retracker.sevstar.net
 retracker.spark-rostov.ru
+retracker.telecom.by
 rt.tace.ru
 rutorrent.frontline-mod.com
+santost12.xyz
 sd-161673.dedibox.fr
 secure.pow7.com
 shadowshq.eddie4.nl
@@ -216,6 +229,8 @@ t2.leech.ie
 t2.pow7.com
 t3.leech.ie
 tc-boxing.com
+tc.animereactor.ru
+teamspeak.value-wolf.org
 tehconnection.eu
 thegeeks.bz
 theoccult.bz
@@ -238,6 +253,8 @@ torrentclub.tech
 torrents-nn.cn
 torrents.linuxmint.com
 torrentsmd.com
+torrentsmd.eu
+torrentsmd.me
 torrenttracker.nwc.acsalaska.net
 torrentzilla.org
 tp.m-team.cc
@@ -252,6 +269,7 @@ tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
 tracker.0o.is
 tracker.0x.tf
+tracker.1337x.org
 tracker.36dm.com
 tracker.acgnx.se
 tracker.aletorrenty.pl
@@ -261,6 +279,7 @@ tracker.anirena.com
 tracker.anonwebz.xyz
 tracker.army
 tracker.baltracker.net
+tracker.baravik.org
 tracker.beeimg.com
 tracker.birkenwald.de
 tracker.bittor.pw
@@ -271,24 +290,34 @@ tracker.bt4g.com
 tracker.btnext.com
 tracker.btsync.gq
 tracker.bz
+tracker.calculate.ru
+tracker.ccc.de
+tracker.city9x.com
 tracker.coalition.space
 tracker.coppersurfer.tk
 tracker.corpscorp.online
 tracker.cyber-hub.net
 tracker.cyberia.is
+tracker.cypherpunks.ru
+tracker.devil-torrents.pl
 tracker.dler.org
+tracker.doko.moe
 tracker.ds.is
+tracker.dutchtracking.com
 tracker.dutchtracking.nl
 tracker.dyne.org
 tracker.e-utp.net
 tracker.eddie4.nl
 tracker.edkj.club
+tracker.edoardocolombo.eu
 tracker.electro-torrent.pl
 tracker.etree.org
 tracker.ex.ua
+tracker.fdn.fr
 tracker.filemail.com
 tracker.filepit.to
 tracker.files.fm
+tracker.filetracker.pl
 tracker.flashtorrents.org
 tracker.foreverpirates.co
 tracker.fortu.io
@@ -300,21 +329,27 @@ tracker.gigatorrents.ws
 tracker.grepler.com
 tracker.halfchub.club
 tracker.hama3.net
+tracker.harry.lu
 tracker.iamhansen.xyz
 tracker.ilibr.org
 tracker.imgoingto.icu
 tracker.internetwarriors.net
 tracker.ipv6tracker.ru
+tracker.istole.it
+tracker.justseed.it
 tracker.kali.org
 tracker.kamigami.org
+tracker.kicks-ass.net
 tracker.kuroy.me
 tracker.leechers-paradise.org
 tracker.lelux.fi
 tracker.lilithraws.cf
 tracker.loadbt.com
+tracker.mg64.net
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeking.me
+tracker.morian.icu
 tracker.msm8916.com
 tracker.nanoha.org
 tracker.nextrp.ru
@@ -331,11 +366,14 @@ tracker.parrotsec.org
 tracker.pirateparty.gr
 tracker.piratepublic.com
 tracker.pomf.se
+tracker.pow7.com
 tracker.publicbt.com
 tracker.publictracker.xyz
 tracker.pussytorrents.org
 tracker.renfei.net
+tracker.sakurato.xyz
 tracker.sbsub.com
+tracker.shittyurl.org
 tracker.shkinev.me
 tracker.sigterm.xyz
 tracker.sktorrent.net
@@ -348,11 +386,14 @@ tracker.tambovnet.org
 tracker.tamersunion.org
 tracker.tasvideos.org
 tracker.teambelgium.net
+tracker.tfile.co
+tracker.tfile.me
 tracker.theempire.bz
 tracker.tiny-vps.com
 tracker.tntvillage.scambioetico.org
 tracker.torrent.eu.org
 tracker.torrentbay.to
+tracker.torrentbd.net
 tracker.torrentbytes.net
 tracker.torrentleech.org
 tracker.torrentsnows.com
@@ -364,25 +405,32 @@ tracker.tricitytorrents.com
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
 tracker.v6speed.org
+tracker.vanitycore.co
 tracker.vectahosting.eu
 tracker.vraphim.com
 tracker.vulnix.sh
+tracker.xdvdz.com
 tracker.ygsub.com
 tracker.yoshi210.com
+tracker.yowe.net
 tracker.zemoj.com
+tracker.zer0day.to
 tracker.zerobytes.xyz
 tracker.zum.bi
 tracker0.ufibox.com
 tracker01.loveapp.com
 tracker1.bt.moack.co.kr
 tracker1.itzmx.com
+tracker1.wasabii.com.tw
 tracker2.christianbro.pw
 tracker2.dler.org
 tracker2.indowebster.com
 tracker2.itzmx.com
+tracker2.wasabii.com.tw
 tracker3.dler.org
 tracker3.itzmx.com
 tracker4.itzmx.com
+tracker4.piratux.com
 tracker6.dler.org
 tracker6.lelux.fi
 tracker7.dler.org
@@ -393,6 +441,7 @@ tsundere.pw
 u.wwwww.wtf
 uatracker.net
 udp-tracker.shittyurl.org
+ulfbrueggemann.no-ip.org
 ultra.zt.ua
 us-tracker.publictracker.xyz
 valakas.rollo.dnsabr.com
@@ -400,6 +449,7 @@ vibe.community
 vpn.flying-datacenter.de
 vps02.net.orel.ru
 w.wwwww.wtf
+wambo.club
 wareztorrent.com
 wassermann.online
 worldboxingvideoarchive.com
@@ -407,14 +457,17 @@ www.all4nothin.net
 www.bitseduce.com
 www.biztorrents.com
 www.elitezones.ro
+www.learnbits.me
 www.loushao.net
 www.midea123.z-media.com.cn
 www.mvgroup.org
 www.thetradersden.org
 www.torrent.eu.org
 www.tribalmixes.com
+www.tvnihon.com
 www.wareztorrent.com
 www.worldboxingvideoarchive.com
+www.xwt-classics.net
 xbtrutor.com
 xwt-classics.net
 xxxtor.com
