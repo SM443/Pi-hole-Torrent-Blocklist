@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Feb  5 00:00:06 UTC 2021
+# Last Update - Fri Feb  5 12:00:06 UTC 2021
 # --------------------------------------------
-# Total domains: 470
+# Total domains: 468
 # --------------------------------------------
 # Total size: 8.4K
 # --------------------------------------------
@@ -128,7 +128,6 @@ ipv4.tracker.harry.lu
 ipv4announce.sktorrent.eu
 ipv6.tracker.harry.lu
 ipv6.tracker.zerobytes.xyz
-irrenhaus.dyndns.dk
 johnrosen1.com
 jsb.by
 kanal-4.de
@@ -460,7 +459,6 @@ www.all4nothin.net
 www.bitseduce.com
 www.biztorrents.com
 www.elitezones.ro
-www.freerainbowtables.com
 www.learnbits.me
 www.loushao.net
 www.midea123.z-media.com.cn
