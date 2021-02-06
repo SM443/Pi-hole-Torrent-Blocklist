@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Feb  6 12:00:11 UTC 2021
+# Last Update - Sat Feb  6 21:06:43 UTC 2021
 # --------------------------------------------
-# Total domains: 466
+# Total domains: 464
 # --------------------------------------------
-# Total size: 8.4K
+# Total size: 8.3K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -52,7 +52,6 @@ bit-hdtv.com
 bithq.org
 bitseduce.com
 bitsparadise.info
-bittorrent.gongt.net
 biztorrents.com
 blackcats-games.net
 blackz.ro
@@ -454,7 +453,6 @@ wareztorrent.com
 wassermann.online
 worldboxingvideoarchive.com
 www.all4nothin.net
-www.bitseduce.com
 www.elitezones.ro
 www.freerainbowtables.com
 www.learnbits.me
