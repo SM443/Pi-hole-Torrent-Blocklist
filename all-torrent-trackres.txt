@@ -1,7 +1,7 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Feb  7 12:00:09 UTC 2021
+# Last Update - Mon Feb  8 00:00:07 UTC 2021
 # --------------------------------------------
 # Total domains: 465
 # --------------------------------------------
@@ -119,6 +119,7 @@ git.vulnix.sh
 grifon.info
 h4.trakx.nibba.trade
 hdreactor.org
+home.yxgz.club
 inferno.demonoid.is
 inferno.demonoid.pw
 ipv4.tracker.harry.lu
@@ -454,8 +455,8 @@ wareztorrent.com
 wassermann.online
 worldboxingvideoarchive.com
 www.all4nothin.net
+www.bitseduce.com
 www.elitezones.ro
-www.freerainbowtables.com
 www.learnbits.me
 www.loushao.net
 www.midea123.z-media.com.cn
@@ -467,7 +468,6 @@ www.tvnihon.com
 www.wareztorrent.com
 www.worldboxingvideoarchive.com
 www.xwt-classics.net
-xbtrutor.com
 xwt-classics.net
 xxxtor.com
 yuwabits.net
