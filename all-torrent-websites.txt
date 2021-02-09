@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent websites blocklist
 # --------------------------------------------
-# Last Update - Mon Feb  8 12:00:05 UTC 2021
+# Last Update - Tue Feb  9 00:00:06 UTC 2021
 # --------------------------------------------
-# Total domains: 3496
+# Total domains: 3497
 # --------------------------------------------
 # Total size: 56K
 # --------------------------------------------
@@ -1579,6 +1579,7 @@ freeetextbooks.com
 freegogpcgames.com
 freemags.unblocked.llc
 freemagspot.unblocked.llc
+freerainbowtables.com
 frozen-layer.com
 ftuapps.dev
 funfile.org
