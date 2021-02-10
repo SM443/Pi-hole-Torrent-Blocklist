@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Feb  9 12:00:08 UTC 2021
+# Last Update - Wed Feb 10 00:00:07 UTC 2021
 # --------------------------------------------
-# Total domains: 468
+# Total domains: 464
 # --------------------------------------------
-# Total size: 8.4K
+# Total size: 8.3K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -113,14 +113,12 @@ fe.dealclub.de
 finbytes.org
 forever-tracker.zooki.xyz
 free-tracker.zooki.xyz
-freerainbowtables.com
 funfile.org
 fxtt.ru
 git.vulnix.sh
 grifon.info
 h4.trakx.nibba.trade
 hdreactor.org
-home.yxgz.club
 inferno.demonoid.is
 inferno.demonoid.pw
 ipv4.tracker.harry.lu
@@ -456,9 +454,7 @@ wassermann.online
 worldboxingvideoarchive.com
 www.all4nothin.net
 www.elitezones.ro
-www.freerainbowtables.com
 www.learnbits.me
-www.legittorrents.info
 www.loushao.net
 www.midea123.z-media.com.cn
 www.mvgroup.org
