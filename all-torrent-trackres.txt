@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Feb 11 00:00:07 UTC 2021
+# Last Update - Thu Feb 11 12:00:08 UTC 2021
 # --------------------------------------------
-# Total domains: 464
+# Total domains: 467
 # --------------------------------------------
-# Total size: 8.3K
+# Total size: 8.4K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -68,6 +68,7 @@ bt.aoeex.com
 bt.beatrice-raws.org
 bt.edwardk.info
 bt.firebit.org
+bt.hackfront.eu
 bt.hliang.com
 bt.nfshost.com
 bt.okmp3.ru
@@ -214,6 +215,7 @@ shadowshq.eddie4.nl
 shadowshq.yi.org
 share.camoe.cn
 shnflac.net
+siambit.com
 siambit.org
 siambt.com
 storage.groupees.com
@@ -455,8 +457,8 @@ wassermann.online
 worldboxingvideoarchive.com
 www.all4nothin.net
 www.elitezones.ro
-www.freerainbowtables.com
 www.learnbits.me
+www.legittorrents.info
 www.loushao.net
 www.midea123.z-media.com.cn
 www.mvgroup.org
@@ -467,6 +469,7 @@ www.tvnihon.com
 www.wareztorrent.com
 www.worldboxingvideoarchive.com
 www.xwt-classics.net
+www.zone-torrent.net
 xwt-classics.net
 xxxtor.com
 yuwabits.net

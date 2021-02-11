@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent websites blocklist
 # --------------------------------------------
-# Last Update - Thu Feb 11 00:00:05 UTC 2021
+# Last Update - Thu Feb 11 12:00:06 UTC 2021
 # --------------------------------------------
-# Total domains: 3498
+# Total domains: 3499
 # --------------------------------------------
 # Total size: 56K
 # --------------------------------------------
@@ -2136,6 +2136,7 @@ pte.nu
 public-tracker.zooki.xyz
 public.popcorn-tracker.org
 public.publictracker.xyz
+public.tracker.vraphim.com
 publichd.se
 publictracker.ch
 publictracker.xyz
