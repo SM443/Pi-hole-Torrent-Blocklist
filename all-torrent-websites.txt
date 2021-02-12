@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent websites blocklist
 # --------------------------------------------
-# Last Update - Thu Feb 11 12:00:06 UTC 2021
+# Last Update - Fri Feb 12 00:00:42 UTC 2021
 # --------------------------------------------
-# Total domains: 3499
+# Total domains: 3501
 # --------------------------------------------
 # Total size: 56K
 # --------------------------------------------
@@ -1391,6 +1391,8 @@ coppersurfer.tk
 couchtuner.unblocked.llc
 cpabien.club
 cpabien.cx
+cpasbien.sh
+cpasbienss.fr
 crazytorrent.eu
 crete-tracker.com
 crickfree.org
