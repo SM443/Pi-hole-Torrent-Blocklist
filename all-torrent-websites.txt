@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent websites blocklist
 # --------------------------------------------
-# Last Update - Fri Feb 12 00:00:42 UTC 2021
+# Last Update - Fri Feb 12 12:00:05 UTC 2021
 # --------------------------------------------
-# Total domains: 3501
+# Total domains: 3503
 # --------------------------------------------
 # Total size: 56K
 # --------------------------------------------
@@ -1288,6 +1288,7 @@ bt.dvdquorum.es
 bt.edwardk.info
 bt.etree.org
 bt.firebit.org
+bt.hackfront.eu
 bt.hliang.com
 bt.nfshost.com
 bt.okmp3.ru
@@ -2294,6 +2295,7 @@ sharego.net
 sharingcode.com
 shnflac.net
 showbits.org
+siambit.com
 siambit.org
 siambt.com
 simplestorrent.com
