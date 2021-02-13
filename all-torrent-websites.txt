@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent websites blocklist
 # --------------------------------------------
-# Last Update - Sat Feb 13 00:00:10 UTC 2021
+# Last Update - Sat Feb 13 12:00:06 UTC 2021
 # --------------------------------------------
-# Total domains: 3504
+# Total domains: 3505
 # --------------------------------------------
 # Total size: 56K
 # --------------------------------------------
@@ -2317,6 +2317,7 @@ solarmovie.unblocked.llc
 solarmoviez.ru
 solidtorrents.net
 sonofshun.com
+sound-park.world
 soundpark.space
 spacemov.io
 spanishtracker.com
