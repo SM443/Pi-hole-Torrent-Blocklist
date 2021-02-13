@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Feb 12 12:00:07 UTC 2021
+# Last Update - Sat Feb 13 00:00:19 UTC 2021
 # --------------------------------------------
-# Total domains: 469
+# Total domains: 468
 # --------------------------------------------
 # Total size: 8.4K
 # --------------------------------------------
@@ -68,6 +68,7 @@ bt.aoeex.com
 bt.beatrice-raws.org
 bt.edwardk.info
 bt.firebit.org
+bt.hackfront.eu
 bt.hliang.com
 bt.nfshost.com
 bt.okmp3.ru
@@ -113,7 +114,6 @@ fe.dealclub.de
 finbytes.org
 forever-tracker.zooki.xyz
 free-tracker.zooki.xyz
-freerainbowtables.com
 funfile.org
 fxtt.ru
 git.vulnix.sh
@@ -218,6 +218,7 @@ shnflac.net
 siambit.com
 siambit.org
 siambt.com
+sound-park.world
 storage.groupees.com
 sugoi.pomf.se
 sukebei.tracker.wf
@@ -456,8 +457,6 @@ wareztorrent.com
 wassermann.online
 worldboxingvideoarchive.com
 www.all4nothin.net
-www.bitseduce.com
-www.biztorrents.com
 www.elitezones.ro
 www.freerainbowtables.com
 www.learnbits.me
