@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Feb 14 00:00:08 UTC 2021
+# Last Update - Sun Feb 14 12:02:14 UTC 2021
 # --------------------------------------------
-# Total domains: 470
+# Total domains: 464
 # --------------------------------------------
-# Total size: 8.4K
+# Total size: 8.3K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -18,6 +18,7 @@
 3rt.tace.ru
 47.ip-51-68-199.eu
 5rt.tace.ru
+60-fps.org
 61626c.net
 6rt.tace.ru
 9.rarbg.com
@@ -72,7 +73,6 @@ bt.hliang.com
 bt.nfshost.com
 bt.okmp3.ru
 bt.pusacg.org
-bt.unionpeer.org
 bt.xxx-tracker.com
 bt.zlofenix.org
 bt1.archive.org
@@ -125,7 +125,6 @@ ipv4.tracker.harry.lu
 ipv4announce.sktorrent.eu
 ipv6.tracker.harry.lu
 ipv6.tracker.zerobytes.xyz
-irrenhaus.dyndns.dk
 johnrosen1.com
 jsb.by
 kanal-4.de
@@ -215,10 +214,8 @@ shadowshq.eddie4.nl
 shadowshq.yi.org
 share.camoe.cn
 shnflac.net
-siambit.com
 siambit.org
 siambt.com
-sound-park.world
 storage.groupees.com
 sugoi.pomf.se
 sukebei.tracker.wf
@@ -337,6 +334,7 @@ tracker.ilibr.org
 tracker.imgoingto.icu
 tracker.internetwarriors.net
 tracker.ipv6tracker.ru
+tracker.iriseden.eu
 tracker.istole.it
 tracker.justseed.it
 tracker.kali.org
@@ -457,10 +455,7 @@ wareztorrent.com
 wassermann.online
 worldboxingvideoarchive.com
 www.all4nothin.net
-www.bitseduce.com
-www.biztorrents.com
 www.elitezones.ro
-www.freerainbowtables.com
 www.learnbits.me
 www.loushao.net
 www.midea123.z-media.com.cn
@@ -472,7 +467,6 @@ www.tvnihon.com
 www.wareztorrent.com
 www.worldboxingvideoarchive.com
 www.xwt-classics.net
-www.zone-torrent.net
 xwt-classics.net
 xxxtor.com
 yuwabits.net
