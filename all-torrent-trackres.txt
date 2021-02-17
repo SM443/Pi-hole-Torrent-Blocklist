@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Feb 16 12:00:15 UTC 2021
+# Last Update - Wed Feb 17 00:00:07 UTC 2021
 # --------------------------------------------
-# Total domains: 471
+# Total domains: 472
 # --------------------------------------------
-# Total size: 8.4K
+# Total size: 8.5K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -61,7 +61,6 @@ bobbialbano.com
 bt-club.ws
 bt-tracker.gamexp.ru
 bt.100.pet
-bt.1000.pet
 bt.10000.pet
 bt.3dmgame.com
 bt.3kb.xyz
@@ -460,6 +459,8 @@ wareztorrent.com
 wassermann.online
 worldboxingvideoarchive.com
 www.all4nothin.net
+www.bitseduce.com
+www.biztorrents.com
 www.elitezones.ro
 www.learnbits.me
 www.loushao.net

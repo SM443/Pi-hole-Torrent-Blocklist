@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent websites blocklist
 # --------------------------------------------
-# Last Update - Tue Feb 16 12:00:10 UTC 2021
+# Last Update - Wed Feb 17 00:00:05 UTC 2021
 # --------------------------------------------
-# Total domains: 3507
+# Total domains: 3509
 # --------------------------------------------
 # Total size: 56K
 # --------------------------------------------
@@ -1278,6 +1278,7 @@ bt-club.ws
 bt-tracker.gamexp.ru
 bt.100.pet
 bt.1000.pet
+bt.10000.pet
 bt.3dmgame.com
 bt.3kb.xyz
 bt.acg.gg
@@ -1780,6 +1781,7 @@ libitina.net
 libtorrent.org
 lifanmoe.net
 lifeproxy.tel
+lima-peru.subventas.com
 limetor.com
 limetor.pro
 limetorrent.ws
