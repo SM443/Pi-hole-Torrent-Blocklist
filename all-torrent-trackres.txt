@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Feb 17 00:00:07 UTC 2021
+# Last Update - Wed Feb 17 12:00:07 UTC 2021
 # --------------------------------------------
-# Total domains: 472
+# Total domains: 466
 # --------------------------------------------
-# Total size: 8.5K
+# Total size: 8.4K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -18,7 +18,6 @@
 3rt.tace.ru
 47.ip-51-68-199.eu
 5rt.tace.ru
-60-fps.org
 61626c.net
 6rt.tace.ru
 9.rarbg.com
@@ -61,7 +60,6 @@ bobbialbano.com
 bt-club.ws
 bt-tracker.gamexp.ru
 bt.100.pet
-bt.10000.pet
 bt.3dmgame.com
 bt.3kb.xyz
 bt.ali213.net
@@ -114,6 +112,7 @@ fe.dealclub.de
 finbytes.org
 forever-tracker.zooki.xyz
 free-tracker.zooki.xyz
+freerainbowtables.com
 funfile.org
 fxtt.ru
 git.vulnix.sh
@@ -126,7 +125,6 @@ ipv4.tracker.harry.lu
 ipv4announce.sktorrent.eu
 ipv6.tracker.harry.lu
 ipv6.tracker.zerobytes.xyz
-irrenhaus.dyndns.dk
 johnrosen1.com
 jsb.by
 kanal-4.de
@@ -459,8 +457,6 @@ wareztorrent.com
 wassermann.online
 worldboxingvideoarchive.com
 www.all4nothin.net
-www.bitseduce.com
-www.biztorrents.com
 www.elitezones.ro
 www.learnbits.me
 www.loushao.net
@@ -473,8 +469,6 @@ www.tvnihon.com
 www.wareztorrent.com
 www.worldboxingvideoarchive.com
 www.xwt-classics.net
-www.zone-torrent.net
-xbtrutor.com
 xwt-classics.net
 xxxtor.com
 yuwabits.net
