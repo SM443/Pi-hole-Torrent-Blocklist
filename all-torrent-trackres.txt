@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Feb 18 00:00:16 UTC 2021
+# Last Update - Thu Feb 18 12:00:09 UTC 2021
 # --------------------------------------------
-# Total domains: 470
+# Total domains: 473
 # --------------------------------------------
-# Total size: 8.4K
+# Total size: 8.5K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -18,6 +18,7 @@
 3rt.tace.ru
 47.ip-51-68-199.eu
 5rt.tace.ru
+60-fps.org
 61626c.net
 6rt.tace.ru
 9.rarbg.com
@@ -473,6 +474,8 @@ www.tvnihon.com
 www.wareztorrent.com
 www.worldboxingvideoarchive.com
 www.xwt-classics.net
+www.zone-torrent.net
+xbtrutor.com
 xwt-classics.net
 xxxtor.com
 yuwabits.net
