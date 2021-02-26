@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Feb 25 12:00:08 UTC 2021
+# Last Update - Fri Feb 26 00:00:08 UTC 2021
 # --------------------------------------------
-# Total domains: 479
+# Total domains: 480
 # --------------------------------------------
 # Total size: 8.6K
 # --------------------------------------------
@@ -20,6 +20,7 @@
 5rt.tace.ru
 60-fps.org
 61626c.net
+6ahddutb1ucc3cp.ru
 6rt.tace.ru
 9.rarbg.com
 9.rarbg.me
