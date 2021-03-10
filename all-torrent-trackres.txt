@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Mar  9 12:00:07 UTC 2021
+# Last Update - Wed Mar 10 00:00:07 UTC 2021
 # --------------------------------------------
-# Total domains: 483
+# Total domains: 484
 # --------------------------------------------
 # Total size: 8.7K
 # --------------------------------------------
@@ -158,6 +158,7 @@ mts.tvbit.co
 music-torrent.net
 mvgroup.org
 nagios.tks.sumy.ua
+newtoncity.org
 novaopcj.icu
 ns-1.x-fins.com
 ns3107607.ip-54-36-126.eu
