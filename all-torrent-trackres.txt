@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Mar 13 00:00:07 UTC 2021
+# Last Update - Sat Mar 13 12:00:08 UTC 2021
 # --------------------------------------------
-# Total domains: 485
+# Total domains: 490
 # --------------------------------------------
-# Total size: 8.7K
+# Total size: 8.9K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -42,6 +42,11 @@ app.icon256.com
 aruacfilmes.com.br
 asger.xyz
 asnet.pw
+atrack-asia-e2.120181311.xyz
+atrack-asia-s1.120181311.xyz
+atrack-eu-w1.120181311.xyz
+atrack-sa-e1.120181311.xyz
+atrack-us-c1.120181311.xyz
 atrack.pow7.com
 baibako.tv
 bclearning.top
