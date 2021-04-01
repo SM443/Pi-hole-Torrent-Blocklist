@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Mar 31 12:00:10 UTC 2021
+# Last Update - Thu Apr  1 00:00:07 UTC 2021
 # --------------------------------------------
-# Total domains: 495
+# Total domains: 496
 # --------------------------------------------
-# Total size: 8.9K
+# Total size: 9.0K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -312,6 +312,7 @@ tracker.btsync.gq
 tracker.bz
 tracker.calculate.ru
 tracker.ccc.de
+tracker.ccp.ovh
 tracker.city9x.com
 tracker.coalition.space
 tracker.coppersurfer.tk
