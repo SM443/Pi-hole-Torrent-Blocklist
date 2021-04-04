@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Apr  4 00:00:07 UTC 2021
+# Last Update - Sun Apr  4 09:36:49 UTC 2021
 # --------------------------------------------
-# Total domains: 498
+# Total domains: 506
 # --------------------------------------------
-# Total size: 9.0K
+# Total size: 9.1K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -185,10 +185,13 @@ open.publictracker.xyz
 open.stealth.si
 open.touki.ru
 open.tracker.cl
+open.trackerlist.xyz
 openbittorrent.com
 opentor.org
 opentracker.acgnx.com
 opentracker.acgnx.se
+opentracker.h4ck.me
+opentracker.h4ck.me	
 opentracker.i2p.rocks
 opentracker.xyz
 opentrackr.org
@@ -263,6 +266,7 @@ tk.mabo.ltd
 torrent-team.net
 torrent.arjlover.net
 torrent.fedoraproject.org
+torrent.gresille.org
 torrent.mp3quran.net
 torrent.nwps.ws
 torrent.resonatingmedia.com
@@ -407,6 +411,7 @@ tracker.skynetcloud.site
 tracker.skyts.cn
 tracker.skyts.net
 tracker.sloppyta.co
+tracker.supertracker.net
 tracker.swateam.org.uk
 tracker.tambovnet.org
 tracker.tamersunion.org
@@ -466,6 +471,7 @@ tribalmixes.com
 trk.publictracker.xyz
 trun.tom.ru
 tsundere.pw
+tw.opentracker.ga
 u.wwwww.wtf
 uatracker.net
 udp-tracker.shittyurl.org
@@ -492,6 +498,7 @@ www.legittorrents.info
 www.loushao.net
 www.midea123.z-media.com.cn
 www.mvgroup.org
+www.sumotracker.com
 www.thetradersden.org
 www.torrent.eu.org
 www.tribalmixes.com
@@ -502,6 +509,7 @@ www.xwt-classics.net
 www.zone-torrent.net
 xbtrutor.com
 xwt-classics.net
+xxx.xx-x.ga
 xxxtor.com
 yuwabits.net
 z.mercax.com
