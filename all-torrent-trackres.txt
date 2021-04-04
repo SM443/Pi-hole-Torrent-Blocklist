@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Apr  3 12:00:07 UTC 2021
+# Last Update - Sun Apr  4 00:00:07 UTC 2021
 # --------------------------------------------
-# Total domains: 497
+# Total domains: 498
 # --------------------------------------------
 # Total size: 9.0K
 # --------------------------------------------
@@ -241,6 +241,7 @@ storage.groupees.com
 sugoi.pomf.se
 sukebei.tracker.wf
 t.acg.rip
+t.lint2.com
 t.nyaatracker.com
 t.overflow.biz
 t1.leech.ie
