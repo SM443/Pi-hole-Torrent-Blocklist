@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Apr  4 10:02:16 UTC 2021
+# Last Update - Sun Apr  4 10:03:11 UTC 2021
 # --------------------------------------------
-# Total domains: 506
+# Total domains: 507
 # --------------------------------------------
-# Total size: 9.1K
+# Total size: 9.2K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -256,6 +256,7 @@ tc-boxing.com
 tc.animereactor.ru
 teamspeak.value-wolf.org
 tehconnection.eu
+temp1.opentracker.gq
 thegeeks.bz
 theoccult.bz
 theplace.bz
