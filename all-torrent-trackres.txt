@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Apr  8 12:00:07 UTC 2021
+# Last Update - Fri Apr  9 00:00:08 UTC 2021
 # --------------------------------------------
-# Total domains: 509
+# Total domains: 510
 # --------------------------------------------
 # Total size: 9.2K
 # --------------------------------------------
@@ -445,6 +445,7 @@ tracker.vectahosting.eu
 tracker.vraphim.com
 tracker.vulnix.sh
 tracker.xdvdz.com
+tracker.xn--vzyr4p.top
 tracker.ygsub.com
 tracker.yoshi210.com
 tracker.yowe.net
