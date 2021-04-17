@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Apr 16 12:00:07 UTC 2021
+# Last Update - Sat Apr 17 00:00:08 UTC 2021
 # --------------------------------------------
-# Total domains: 512
+# Total domains: 513
 # --------------------------------------------
 # Total size: 9.3K
 # --------------------------------------------
@@ -141,6 +141,7 @@ ipv6.tracker.zerobytes.xyz
 irrenhaus.dyndns.dk
 johnrosen1.com
 jsb.by
+kamileg.dynv6.net
 kanal-4.de
 kanbooru.com
 kaztorka.org
