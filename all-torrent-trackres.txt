@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Apr 23 00:00:08 UTC 2021
+# Last Update - Fri Apr 23 12:00:09 UTC 2021
 # --------------------------------------------
-# Total domains: 513
+# Total domains: 514
 # --------------------------------------------
 # Total size: 9.3K
 # --------------------------------------------
@@ -285,6 +285,7 @@ torrenttracker.nwc.acsalaska.net
 torrent.ubuntu.com
 torrentzilla.org
 t.overflow.biz
+t.pldm.ml
 tp.m-team.cc
 tr2.ysagin.top
 tracker01.loveapp.com
