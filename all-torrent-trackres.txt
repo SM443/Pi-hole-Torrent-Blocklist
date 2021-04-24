@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Apr 24 14:12:42 UTC 2021
+# Last Update - Sat Apr 24 14:45:07 UTC 2021
 # --------------------------------------------
-# Total domains: 515
+# Total domains: 547
 # --------------------------------------------
-# Total size: 9.3K
+# Total size: 9.9K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -37,6 +37,7 @@ ahimsa.yui.cat
 a.leopard-raws.org
 all4nothin.net
 alltorrents.net
+analytics.crazyhd.com
 anidex.moe
 api.bitumconference.ru
 app.icon256.com
@@ -97,11 +98,15 @@ carbon-bonsai-621.appspot.com
 cdn-1.gamecoast.org
 cdn-2.gamecoast.org
 chanchan.uchuu.co.uk
+chd4.com
 chihaya.de
 chihaya.toss.li
 cloud.nyap2p.com
 code2chicken.nl
 concen.org
+core.crazyhd.com
+crazyhd.com
+cryo.torrentbd.me
 cutiegirl.ru
 data-bg.net
 datascene.net
@@ -134,6 +139,7 @@ h4.trakx.nibba.trade
 hdreactor.org
 inferno.demonoid.is
 inferno.demonoid.pw
+invite.torrentbd.me
 ipv4announce.sktorrent.eu
 ipv4.tracker.harry.lu
 ipv6.tracker.harry.lu
@@ -153,7 +159,10 @@ line-net.ru
 ln.mtahost.co
 loushao.net
 mail2.zelenaya.net
+mail.crazyhd.com
 mail.realliferpg.de
+manage.torrentbd.me
+manage.torrentbd.net
 masters-tb.com
 mediaclub.tv
 megatorrents.kg
@@ -162,11 +171,14 @@ mgtracker.org
 milanesitracker.tekcities.com
 milliontorrent.pl
 mixfiend.com
+modon.torrentbd.me
+moklesh.torrentbd.net
 movies.zsw.ca
 mts.tvbit.co
 music-torrent.net
 mvgroup.org
 nagios.tks.sumy.ua
+news.crazyhd.com
 newtoncity.org
 novaopcj.icu
 ns-1.x-fins.com
@@ -197,6 +209,7 @@ opentracker.i2p.rocks
 open.trackerlist.xyz
 opentracker.xyz
 opentrackr.org
+op.torrentbd.net
 p2pdl.com
 p4p.arenabg.ch
 p4p.arenabg.com
@@ -234,6 +247,7 @@ rutorrent.frontline-mod.com
 santost12.xyz
 sd-161673.dedibox.fr
 secure.pow7.com
+seedbox.torrentbd.com
 shadowshq.eddie4.nl
 shadowshq.yi.org
 share.camoe.cn
@@ -241,10 +255,15 @@ shnflac.net
 siambit.com
 siambit.org
 siambt.com
+siena.crazyhd.com
+signup.torrentbd.net
 sound-park.world
+static.torrentbd.me
+static.torrentbd.net
 storage.groupees.com
 sugoi.pomf.se
 sukebei.tracker.wf
+support.torrentbd.com
 t1.leech.ie
 t1.pow7.com
 t2.leech.ie
@@ -266,6 +285,9 @@ tk.mabo.ltd
 t.lint2.com
 t.nyaatracker.com
 torrent.arjlover.net
+torrentbd.com
+torrentbd.me
+torrentbd.net
 torrentclub.online
 torrentclub.tech
 torrent.fedoraproject.org
@@ -304,11 +326,13 @@ tracker2.wasabii.com.tw
 tracker.36dm.com
 tracker3.dler.org
 tracker3.itzmx.com
+tracker3.torrentbd.net
 tracker4.itzmx.com
 tracker4.piratux.com
 tracker6.dler.org
 tracker6.lelux.fi
 tracker7.dler.org
+tracker9.torrentbd.net
 tracker.acgnx.se
 tracker.aletorrenty.pl
 tracker.ali213.net
@@ -442,6 +466,8 @@ tracker.theoks.net
 tracker.tiny-vps.com
 tracker.tntvillage.scambioetico.org
 tracker.torrentbay.to
+tracker.torrentbd.com
+tracker.torrentbd.me
 tracker.torrentbd.net
 tracker.torrentbytes.net
 tracker.torrent.eu.org
@@ -499,6 +525,8 @@ worldboxingvideoarchive.com
 www.all4nothin.net
 www.bitseduce.com
 www.biztorrents.com
+www.chd4.com
+www.crazyhd.com
 www.elitezones.ro
 www.freerainbowtables.com
 www.learnbits.me
@@ -508,6 +536,9 @@ www.midea123.z-media.com.cn
 www.mvgroup.org
 www.sumotracker.com
 www.thetradersden.org
+www.torrentbd.com
+www.torrentbd.me
+www.torrentbd.net
 www.torrent.eu.org
 www.tribalmixes.com
 www.tvnihon.com
@@ -521,6 +552,7 @@ xwt-classics.net
 xxxtor.com
 xxx.xx-x.ga
 yuwabits.net
+z.crazyhd.com
 zephir.monocul.us
 zer0day.ch
 zer0day.to

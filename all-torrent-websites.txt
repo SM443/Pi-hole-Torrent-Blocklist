@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent websites blocklist
 # --------------------------------------------
-# Last Update - Sat Apr 24 14:12:38 UTC 2021
+# Last Update - Sat Apr 24 14:45:04 UTC 2021
 # --------------------------------------------
-# Total domains: 4000
+# Total domains: 3999
 # --------------------------------------------
 # Total size: 65K
 # --------------------------------------------
@@ -931,7 +931,6 @@ energy-torrent.com
 engine.bitmedianetwork.com
 engplus.ru
 en.metal-tracker.com
-en.wikipedia.org
 eogli.org
 erai-raws.info
 Erotixxx.net
