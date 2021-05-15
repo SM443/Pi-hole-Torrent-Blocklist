@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat May 15 00:00:07 UTC 2021
+# Last Update - Sat May 15 05:28:30 UTC 2021
 # --------------------------------------------
-# Total domains: 886
+# Total domains: 889
 # --------------------------------------------
 # Total size: 19K
 # --------------------------------------------
@@ -524,6 +524,7 @@ ns3107607.ip-54-36-126.eu
 ns349743.ip-91-121-106.eu
 ns389251.ovh.net
 nyaa.tracker.wf
+oh.fuuuuuck.com
 omg.wtftrackr.xyz
 open.acgnxtracker.com
 open.acgtracker.com
@@ -658,6 +659,7 @@ tracker1.bt.moack.co.kr
 tracker1.itzmx.com
 tracker1.wasabii.com.tw
 tracker2.christianbro.pw
+tracker2.dler.com
 tracker2.dler.org
 tracker2.indowebster.com
 tracker2.itzmx.com
@@ -705,6 +707,7 @@ tracker.cypherpunks.ru
 tracker.darmowy-torrent.pl
 tracker-de.ololosh.space
 tracker.devil-torrents.pl
+tracker.dler.com
 tracker.dler.org
 tracker.doko.moe
 tracker.ds.is
