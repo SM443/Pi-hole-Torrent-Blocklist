@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun May 16 12:00:08 UTC 2021
+# Last Update - Mon May 17 00:00:08 UTC 2021
 # --------------------------------------------
-# Total domains: 432
+# Total domains: 436
 # --------------------------------------------
 # Total size: 7.8K
 # --------------------------------------------
@@ -176,6 +176,7 @@ opentracker.i2p.rocks
 opentracker.xyz
 opentrackr.org
 p2pdl.com
+p4p.arenabg.ch
 p4p.arenabg.com
 peerfect.org
 potuk.com
@@ -200,6 +201,7 @@ retracker.netbynet.ru
 retracker.nts.su
 retracker.sevstar.net
 retracker.spark-rostov.ru
+retracker.telecom.by
 rt.tace.ru
 rutorrent.frontline-mod.com
 sd-161673.dedibox.fr
@@ -277,6 +279,7 @@ tracker.birkenwald.de
 tracker.bittor.pw
 tracker.bittorrent.am
 tracker.blacksparrowmedia.net
+tracker.breizh.pm
 tracker.bt4g.com
 tracker.bt-hash.com
 tracker.btnext.com
@@ -392,6 +395,7 @@ tracker-v6.zooki.xyz
 tracker.vectahosting.eu
 tracker.vulnix.sh
 tracker.xdvdz.com
+tracker.xn--vzyr4p.top
 tracker.ygsub.com
 tracker.yoshi210.com
 tracker.zemoj.com
