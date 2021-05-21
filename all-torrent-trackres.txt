@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri May 21 00:00:08 UTC 2021
+# Last Update - Fri May 21 12:00:08 UTC 2021
 # --------------------------------------------
-# Total domains: 437
+# Total domains: 438
 # --------------------------------------------
-# Total size: 7.8K
+# Total size: 7.9K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -119,6 +119,7 @@ git.vulnix.sh
 grifon.info
 h4.trakx.nibba.trade
 hdreactor.org
+home.yxgz.club
 inferno.demonoid.is
 inferno.demonoid.pw
 ipv4announce.sktorrent.eu
