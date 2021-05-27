@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu May 27 00:07:13 UTC 2021
+# Last Update - Thu May 27 12:00:08 UTC 2021
 # --------------------------------------------
-# Total domains: 440
+# Total domains: 441
 # --------------------------------------------
 # Total size: 7.9K
 # --------------------------------------------
@@ -206,6 +206,7 @@ retracker.nts.su
 retracker.sevstar.net
 retracker.spark-rostov.ru
 retracker.telecom.by
+rt.optizone.ru
 rt.tace.ru
 rutorrent.frontline-mod.com
 sd-161673.dedibox.fr
