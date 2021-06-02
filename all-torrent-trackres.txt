@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Jun  1 12:00:10 UTC 2021
+# Last Update - Wed Jun  2 00:00:11 UTC 2021
 # --------------------------------------------
-# Total domains: 444
+# Total domains: 446
 # --------------------------------------------
 # Total size: 8.0K
 # --------------------------------------------
@@ -95,6 +95,7 @@ chihaya.toss.li
 code2chicken.nl
 concen.org
 cutiegirl.ru
+danielcloud.ddns.net
 data-bg.net
 datascene.net
 daveking.com
@@ -416,6 +417,7 @@ tribalmixes.com
 trk.publictracker.xyz
 tr.kxmp.cf
 tr.ready4.icu
+tr.torland.ga
 trun.tom.ru
 tsundere.pw
 uatracker.net
