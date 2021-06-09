@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Jun  8 12:00:09 UTC 2021
+# Last Update - Wed Jun  9 00:00:09 UTC 2021
 # --------------------------------------------
-# Total domains: 447
+# Total domains: 448
 # --------------------------------------------
-# Total size: 8.0K
+# Total size: 8.1K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -92,6 +92,7 @@ cdn-2.gamecoast.org
 chanchan.uchuu.co.uk
 chihaya.de
 chihaya.toss.li
+citrus.carapax.net
 code2chicken.nl
 concen.org
 cutiegirl.ru
