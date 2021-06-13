@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Jun 13 00:00:10 UTC 2021
+# Last Update - Sun Jun 13 12:00:08 UTC 2021
 # --------------------------------------------
-# Total domains: 449
+# Total domains: 451
 # --------------------------------------------
 # Total size: 8.1K
 # --------------------------------------------
@@ -122,6 +122,7 @@ free.publictracker.xyz
 freerainbowtables.com
 free-tracker.zooki.xyz
 funfile.org
+fxtt.ru
 git.vulnix.sh
 grifon.info
 h4.trakx.nibba.trade
@@ -376,6 +377,7 @@ tracker.shittyurl.org
 tracker.shkinev.me
 tracker.sktorrent.net
 tracker.skynetcloud.site
+tracker.skyts.cn
 tracker.skyts.net
 tracker.sloppyta.co
 tracker.swateam.org.uk
