@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Jun 15 00:00:10 UTC 2021
+# Last Update - Tue Jun 15 12:00:08 UTC 2021
 # --------------------------------------------
-# Total domains: 451
+# Total domains: 452
 # --------------------------------------------
 # Total size: 8.1K
 # --------------------------------------------
@@ -454,6 +454,7 @@ www.wareztorrent.com
 www.worldboxingvideoarchive.com
 w.wwwww.wtf
 www.xwt-classics.net
+www.zone-torrent.net
 xwt-classics.net
 xxxtor.com
 yuwabits.net
