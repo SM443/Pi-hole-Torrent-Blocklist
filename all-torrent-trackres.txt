@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Jul  6 12:00:08 UTC 2021
+# Last Update - Wed Jul  7 00:00:10 UTC 2021
 # --------------------------------------------
-# Total domains: 463
+# Total domains: 464
 # --------------------------------------------
 # Total size: 8.3K
 # --------------------------------------------
@@ -100,6 +100,7 @@ code2chicken.nl
 concen.org
 cutiegirl.ru
 danielcloud.ddns.net
+danielrcloud.ddns.net
 data-bg.net
 datascene.net
 daveking.com
