@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Aug 12 00:00:11 UTC 2021
+# Last Update - Thu Aug 12 12:00:21 UTC 2021
 # --------------------------------------------
-# Total domains: 468
+# Total domains: 469
 # --------------------------------------------
 # Total size: 8.4K
 # --------------------------------------------
@@ -297,6 +297,7 @@ tracker.army
 tracker.baltracker.net
 tracker.beeimg.com
 tracker.birkenwald.de
+tracker.bitsearch.to
 tracker.bittor.pw
 tracker.bittorrent.am
 tracker.blacksparrowmedia.net
