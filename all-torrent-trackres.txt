@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Aug 17 00:00:11 UTC 2021
+# Last Update - Tue Aug 17 12:00:09 UTC 2021
 # --------------------------------------------
-# Total domains: 469
+# Total domains: 475
 # --------------------------------------------
-# Total size: 8.4K
+# Total size: 8.6K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -123,6 +123,7 @@ filetracker.xyz
 finbytes.org
 forever.publictracker.xyz
 forever-tracker.zooki.xyz
+fosstorrents.com
 free.publictracker.xyz
 freerainbowtables.com
 free-tracker.zooki.xyz
@@ -163,6 +164,7 @@ mixfiend.com
 movies.zsw.ca
 mts.tvbit.co
 music-torrent.net
+mvgforumtracker.mvgroup.org
 mvgroup.org
 mytracker.fly.dev
 nagios.tks.sumy.ua
@@ -258,6 +260,7 @@ torrent.mp3quran.net
 torrent.nwps.ws
 torrent.resonatingmedia.com
 torrent.rus.ec
+torrents.hikarinokiseki.com
 torrents.linuxmint.com
 torrentsmd.com
 torrents-nn.cn
@@ -265,6 +268,7 @@ torrent.tdjs.tech
 torrent-team.net
 torrenttracker.nwc.acsalaska.net
 torrent.ubuntu.com
+torrent.unix-ag.uni-kl.de
 torrentzilla.org
 t.overflow.biz
 tp.m-team.cc
@@ -413,6 +417,7 @@ tracker.torrenty.org
 tracker.torrentyorg.pl
 tracker.trackerfix.com
 tracker.trackton.ga
+tracker.trancetraffic.com
 tracker.tricitytorrents.com
 tracker.tvunderground.org.ru
 tracker-udp.gbitt.info
@@ -472,6 +477,7 @@ www.worldboxingvideoarchive.com
 w.wwwww.wtf
 www.xwt-classics.net
 www.zone-torrent.net
+xtremewrestlingtorrents.net
 xwt-classics.net
 xxxtor.com
 yuwabits.net
