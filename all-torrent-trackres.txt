@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Aug 25 12:00:11 UTC 2021
+# Last Update - Thu Aug 26 00:00:17 UTC 2021
 # --------------------------------------------
-# Total domains: 478
+# Total domains: 480
 # --------------------------------------------
-# Total size: 8.6K
+# Total size: 8.7K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -439,6 +439,7 @@ tracker.yowe.net
 tracker.zemoj.com
 tracker.zerobytes.xyz
 tracker.zum.bi
+trackme.theom.nz
 trakx.herokuapp.com
 tr.bangumi.moe
 tr.cili001.com
@@ -450,6 +451,7 @@ tr.torland.ga
 trun.tom.ru
 tsundere.pw
 uatracker.net
+udp.tracker.coalition.space
 udp-tracker.shittyurl.org
 ultra.zt.ua
 us-tracker.publictracker.xyz
