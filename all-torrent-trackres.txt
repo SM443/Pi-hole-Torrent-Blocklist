@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Nov  2 02:00:10 UTC 2021
+# Last Update - Tue Nov  2 14:00:10 UTC 2021
 # --------------------------------------------
-# Total domains: 494
+# Total domains: 497
 # --------------------------------------------
-# Total size: 8.9K
+# Total size: 9.0K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -260,6 +260,7 @@ thetracker.org
 thetradersden.org
 thevault.bz
 tk.mabo.ltd
+tk.nvacg.org
 torrent-team.net
 torrent.arjlover.net
 torrent.fedoraproject.org
@@ -318,6 +319,7 @@ tracker.coppersurfer.tk
 tracker.corpscorp.online
 tracker.cyber-hub.net
 tracker.cyberia.is
+tracker.ddunlimited.net
 tracker.dler.com
 tracker.dler.org
 tracker.ds.is
@@ -364,6 +366,7 @@ tracker.leechers-paradise.org
 tracker.lelux.fi
 tracker.lilithraws.cf
 tracker.loadbt.com
+tracker.madassnews.net
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeking.eu.org
