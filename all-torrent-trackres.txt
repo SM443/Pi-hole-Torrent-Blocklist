@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Nov 21 14:00:10 UTC 2021
+# Last Update - Mon Nov 22 02:00:10 UTC 2021
 # --------------------------------------------
-# Total domains: 503
+# Total domains: 504
 # --------------------------------------------
 # Total size: 9.1K
 # --------------------------------------------
@@ -249,6 +249,7 @@ t.nyaatracker.com
 t.overflow.biz
 t1.leech.ie
 t1.pow7.com
+t1.tokhmi.xyz
 t2.leech.ie
 t2.pow7.com
 t3.leech.ie
