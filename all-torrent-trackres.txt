@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Nov 22 14:00:12 UTC 2021
+# Last Update - Tue Nov 23 02:00:11 UTC 2021
 # --------------------------------------------
-# Total domains: 504
+# Total domains: 505
 # --------------------------------------------
 # Total size: 9.1K
 # --------------------------------------------
@@ -217,6 +217,7 @@ public.publictracker.xyz
 public.tracker.vraphim.com
 publictracker.ch
 publictracker.xyz
+qbittorrent-tracker.120181311.xyz
 qg.lorzl.gq
 retracker.akado-ural.ru
 retracker.baikal-telecom.net
