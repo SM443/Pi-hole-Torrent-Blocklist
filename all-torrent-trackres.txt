@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Nov 26 14:00:11 UTC 2021
+# Last Update - Sat Nov 27 02:00:10 UTC 2021
 # --------------------------------------------
-# Total domains: 403
+# Total domains: 404
 # --------------------------------------------
 # Total size: 7.2K
 # --------------------------------------------
@@ -46,6 +46,7 @@ bit-hdtv.com
 bithq.org
 bitseduce.com
 bitsparadise.info
+bittorrent.gongt.net
 biztorrents.com
 blackcats-games.net
 blackz.ro
