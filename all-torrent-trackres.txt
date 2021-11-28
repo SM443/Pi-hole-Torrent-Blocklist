@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Nov 27 14:00:11 UTC 2021
+# Last Update - Sun Nov 28 02:00:10 UTC 2021
 # --------------------------------------------
-# Total domains: 404
+# Total domains: 407
 # --------------------------------------------
-# Total size: 7.2K
+# Total size: 7.3K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -201,6 +201,7 @@ shnflac.net
 siambt.com
 sukebei.tracker.wf
 t.acg.rip
+t.btcland.xyz
 t.nyaatracker.com
 t.overflow.biz
 t1.leech.ie
@@ -231,7 +232,9 @@ torrenttracker.nwc.acsalaska.net
 torrentzilla.org
 tp.m-team.cc
 tr.bangumi.moe
+tr.burnabyhighstar.com
 tr.cili001.com
+tr.highstar.shop
 tr.kxmp.cf
 tr.ready4.icu
 tr.torland.ga
