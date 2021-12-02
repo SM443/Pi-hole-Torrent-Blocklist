@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Dec  1 14:00:11 UTC 2021
+# Last Update - Thu Dec  2 02:00:10 UTC 2021
 # --------------------------------------------
-# Total domains: 410
+# Total domains: 412
 # --------------------------------------------
 # Total size: 7.4K
 # --------------------------------------------
@@ -235,6 +235,7 @@ tp.m-team.cc
 tr.bangumi.moe
 tr.burnabyhighstar.com
 tr.cili001.com
+tr.doogh.club
 tr.fuckbitcoin.xyz
 tr.highstar.shop
 tr.kxmp.cf
@@ -320,6 +321,7 @@ tracker.moeking.eu.org
 tracker.moeking.me
 tracker.monitorit4.me
 tracker.msm8916.com
+tracker.mywaifu.best
 tracker.nanoha.org
 tracker.nextrp.ru
 tracker.nitrix.me
