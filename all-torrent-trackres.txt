@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Dec  3 14:00:11 UTC 2021
+# Last Update - Sat Dec  4 02:00:11 UTC 2021
 # --------------------------------------------
-# Total domains: 412
+# Total domains: 413
 # --------------------------------------------
 # Total size: 7.4K
 # --------------------------------------------
@@ -101,6 +101,7 @@ escorts.subventas.com
 exodus.desync.com
 explodie.org
 fe.dealclub.de
+filetracker.xyz
 finbytes.org
 forever-tracker.zooki.xyz
 forever.publictracker.xyz
