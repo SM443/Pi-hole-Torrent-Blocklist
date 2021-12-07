@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Dec  6 14:00:19 UTC 2021
+# Last Update - Tue Dec  7 02:00:12 UTC 2021
 # --------------------------------------------
-# Total domains: 413
+# Total domains: 415
 # --------------------------------------------
 # Total size: 7.4K
 # --------------------------------------------
@@ -71,6 +71,7 @@ bt1.archive.org
 bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
+bttracker.sylphix.com
 bubu.mapfactor.com
 buny.uk
 camera.lei001.com
@@ -315,6 +316,7 @@ tracker.leechers-paradise.org
 tracker.lelux.fi
 tracker.lilithraws.cf
 tracker.loadbt.com
+tracker.loligirl.cn
 tracker.madassnews.net
 tracker.minglong.org
 tracker.mininova.org
