@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Dec 24 14:00:14 UTC 2021
+# Last Update - Sat Dec 25 02:00:11 UTC 2021
 # --------------------------------------------
-# Total domains: 419
+# Total domains: 420
 # --------------------------------------------
 # Total size: 7.5K
 # --------------------------------------------
@@ -170,6 +170,7 @@ opentor.org
 opentracker.acgnx.com
 opentracker.acgnx.se
 opentracker.i2p.rocks
+opentracker.lingyurouqing.xyz
 opentracker.xyz
 p4p.arenabg.com
 peerfect.org
