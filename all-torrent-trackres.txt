@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Dec 30 14:00:12 UTC 2021
+# Last Update - Fri Dec 31 02:00:13 UTC 2021
 # --------------------------------------------
-# Total domains: 421
+# Total domains: 423
 # --------------------------------------------
 # Total size: 7.6K
 # --------------------------------------------
@@ -71,6 +71,7 @@ bt1.archive.org
 bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
+btt.service.gongt.me
 bttracker.sylphix.com
 bubu.mapfactor.com
 buny.uk
@@ -283,6 +284,7 @@ tracker.ddunlimited.net
 tracker.dix.tf
 tracker.dler.com
 tracker.dler.org
+tracker.dnlab.net
 tracker.ds.is
 tracker.dutchtracking.nl
 tracker.dyne.org
