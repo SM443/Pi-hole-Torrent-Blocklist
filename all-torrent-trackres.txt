@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Jan  8 14:00:10 UTC 2022
+# Last Update - Sun Jan  9 02:00:14 UTC 2022
 # --------------------------------------------
-# Total domains: 425
+# Total domains: 426
 # --------------------------------------------
-# Total size: 7.6K
+# Total size: 7.7K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -322,6 +322,7 @@ tracker.leech.ie
 tracker.leechers-paradise.org
 tracker.lelux.fi
 tracker.lilithraws.cf
+tracker.lilithraws.org
 tracker.loadbt.com
 tracker.loligirl.cn
 tracker.madassnews.net
