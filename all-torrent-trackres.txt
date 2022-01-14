@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Jan 13 14:00:22 UTC 2022
+# Last Update - Fri Jan 14 02:00:10 UTC 2022
 # --------------------------------------------
-# Total domains: 427
+# Total domains: 430
 # --------------------------------------------
 # Total size: 7.7K
 # --------------------------------------------
@@ -229,12 +229,14 @@ thetracker.org
 thetradersden.org
 thevault.bz
 tk.mabo.ltd
+tk.nvacg.org
 torrent-team.net
 torrent.arjlover.net
 torrent.mp3quran.net
 torrent.nwps.ws
 torrent.resonatingmedia.com
 torrent.tdjs.tech
+torrentclub.space
 torrentclub.tech
 torrents-nn.cn
 torrentsmd.com
@@ -291,6 +293,7 @@ tracker.dutchtracking.nl
 tracker.dyne.org
 tracker.e-utp.net
 tracker.eddie4.nl
+tracker.edkj.club
 tracker.electro-torrent.pl
 tracker.etree.org
 tracker.ex.ua
