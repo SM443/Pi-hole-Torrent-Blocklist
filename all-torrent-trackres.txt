@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Jan 23 14:00:16 UTC 2022
+# Last Update - Mon Jan 24 02:00:10 UTC 2022
 # --------------------------------------------
-# Total domains: 432
+# Total domains: 433
 # --------------------------------------------
-# Total size: 7.7K
+# Total size: 7.8K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -268,6 +268,7 @@ tracker.anirena.com
 tracker.anonwebz.xyz
 tracker.army
 tracker.auctor.tv
+tracker.babico.name.tr
 tracker.baltracker.net
 tracker.beeimg.com
 tracker.birkenwald.de
