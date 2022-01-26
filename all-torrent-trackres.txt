@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Jan 25 14:00:11 UTC 2022
+# Last Update - Wed Jan 26 02:00:09 UTC 2022
 # --------------------------------------------
-# Total domains: 435
+# Total domains: 436
 # --------------------------------------------
 # Total size: 7.8K
 # --------------------------------------------
@@ -211,6 +211,7 @@ shadowshq.yi.org
 share.camoe.cn
 shnflac.net
 siambt.com
+static.46.73.46.78.clients.your-server.de
 sukebei.tracker.wf
 t.acg.rip
 t.btcland.xyz
