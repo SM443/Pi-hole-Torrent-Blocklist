@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Jan 26 14:00:09 UTC 2022
+# Last Update - Thu Jan 27 02:00:10 UTC 2022
 # --------------------------------------------
-# Total domains: 436
+# Total domains: 437
 # --------------------------------------------
-# Total size: 7.8K
+# Total size: 7.9K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -71,6 +71,7 @@ bt1.archive.org
 bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
+btracker.top
 btt.service.gongt.me
 bttracker.sylphix.com
 bubu.mapfactor.com
