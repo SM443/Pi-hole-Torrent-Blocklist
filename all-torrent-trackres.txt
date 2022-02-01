@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Jan 31 14:00:15 UTC 2022
+# Last Update - Tue Feb  1 02:00:10 UTC 2022
 # --------------------------------------------
-# Total domains: 439
+# Total domains: 440
 # --------------------------------------------
 # Total size: 7.9K
 # --------------------------------------------
@@ -339,6 +339,7 @@ tracker.loligirl.cn
 tracker.madassnews.net
 tracker.minglong.org
 tracker.mininova.org
+tracker.moeblog.cn
 tracker.moeking.eu.org
 tracker.moeking.me
 tracker.monitorit4.me
