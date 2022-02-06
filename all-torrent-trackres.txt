@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Feb  6 02:00:10 UTC 2022
+# Last Update - Sun Feb  6 14:00:11 UTC 2022
 # --------------------------------------------
-# Total domains: 442
+# Total domains: 443
 # --------------------------------------------
-# Total size: 7.9K
+# Total size: 8.0K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -61,6 +61,7 @@ bt.3kb.xyz
 bt.ali213.net
 bt.beatrice-raws.org
 bt.edwardk.info
+bt.endpot.com
 bt.firebit.org
 bt.hliang.com
 bt.oiyo.tk
