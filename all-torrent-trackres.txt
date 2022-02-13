@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Feb 12 14:00:16 UTC 2022
+# Last Update - Sun Feb 13 02:00:10 UTC 2022
 # --------------------------------------------
-# Total domains: 445
+# Total domains: 450
 # --------------------------------------------
-# Total size: 8.0K
+# Total size: 8.1K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -146,6 +146,7 @@ metal.iplay.ro
 mgtracker.org
 milanesitracker.tekcities.com
 milliontorrent.pl
+mirror.aptus.co.tz
 mixfiend.com
 movies.zsw.ca
 mts.tvbit.co
@@ -176,6 +177,7 @@ openbittorrent.com
 opentor.org
 opentracker.acgnx.com
 opentracker.acgnx.se
+opentracker.cc
 opentracker.i2p.rocks
 opentracker.lingyurouqing.xyz
 opentracker.xyz
@@ -264,6 +266,7 @@ tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
 tracker.0o.is
 tracker.0x.tf
+tracker.3304399.com
 tracker.36dm.com
 tracker.acgnx.se
 tracker.aletorrenty.pl
@@ -339,6 +342,7 @@ tracker.lilithraws.cf
 tracker.lilithraws.org
 tracker.loadbt.com
 tracker.loligirl.cn
+tracker.lyretain.site
 tracker.madassnews.net
 tracker.minglong.org
 tracker.mininova.org
@@ -370,6 +374,7 @@ tracker.publicbt.com
 tracker.publictracker.xyz
 tracker.pussytorrents.org
 tracker.rp-api.tech
+tracker.rsplwe.com
 tracker.sbsub.com
 tracker.shkinev.me
 tracker.skynetcloud.site
