@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Feb 19 14:00:10 UTC 2022
+# Last Update - Sun Feb 20 02:00:10 UTC 2022
 # --------------------------------------------
-# Total domains: 451
+# Total domains: 453
 # --------------------------------------------
-# Total size: 8.1K
+# Total size: 8.2K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -134,6 +134,7 @@ kanal-4.de
 kinorun.com
 koli.services
 learnbits.me
+leet-tracker.moe
 line-net.ru
 ln.mtahost.co
 loushao.net
@@ -252,6 +253,7 @@ torrentsmd.com
 torrenttracker.nwc.acsalaska.net
 torrentzilla.org
 tp.m-team.cc
+tr.abir.ga
 tr.bangumi.moe
 tr.burnabyhighstar.com
 tr.cili001.com
