@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Feb 28 14:00:09 UTC 2022
+# Last Update - Tue Mar  1 02:00:07 UTC 2022
 # --------------------------------------------
-# Total domains: 454
+# Total domains: 455
 # --------------------------------------------
 # Total size: 8.2K
 # --------------------------------------------
@@ -83,6 +83,7 @@ cdn-1.gamecoast.org
 cdn-2.gamecoast.org
 chanakancloud.net
 chanchan.uchuu.co.uk
+chihaya-heroku.120181311.xyz
 chihaya.de
 chihaya.toss.li
 cn.pcfreetime.com
