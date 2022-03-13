@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Mar 13 02:00:07 UTC 2022
+# Last Update - Sun Mar 13 14:00:07 UTC 2022
 # --------------------------------------------
-# Total domains: 460
+# Total domains: 462
 # --------------------------------------------
 # Total size: 8.3K
 # --------------------------------------------
@@ -26,6 +26,7 @@
 9.rarbg.to
 a.leopard-raws.org
 aaa.army
+abir0dev.github.io
 abufinzio.monocul.us
 academic-p2p.appspot.com
 acg.rip
@@ -226,6 +227,7 @@ t.acg.rip
 t.btcland.xyz
 t.nyaatracker.com
 t.overflow.biz
+t.publictracker.xyz
 t1.leech.ie
 t1.pow7.com
 t1.tokhmi.xyz
