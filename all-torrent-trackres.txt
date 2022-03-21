@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Mar 20 14:00:14 UTC 2022
+# Last Update - Mon Mar 21 02:00:07 UTC 2022
 # --------------------------------------------
-# Total domains: 465
+# Total domains: 466
 # --------------------------------------------
 # Total size: 8.4K
 # --------------------------------------------
@@ -129,6 +129,7 @@ inferno.demonoid.is
 inferno.demonoid.pw
 ipv4.tracker.harry.lu
 ipv4announce.sktorrent.eu
+ipv6.babico.name.tr
 ipv6.tracker.harry.lu
 ipv6.tracker.monitorit4.me
 ipv6.tracker.zerobytes.xyz
