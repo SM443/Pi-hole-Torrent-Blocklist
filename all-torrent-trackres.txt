@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Mar 23 14:00:16 UTC 2022
+# Last Update - Thu Mar 24 02:00:07 UTC 2022
 # --------------------------------------------
-# Total domains: 468
+# Total domains: 469
 # --------------------------------------------
-# Total size: 8.4K
+# Total size: 8.5K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -470,6 +470,7 @@ www.loushao.net
 www.midea123.z-media.com.cn
 www.torrent.eu.org
 www.wareztorrent.com
+xarcotic.com
 xtremex.herokuapp.com
 xwt-classics.net
 xxxtor.com
