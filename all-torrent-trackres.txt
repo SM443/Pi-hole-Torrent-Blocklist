@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Mar 24 14:00:15 UTC 2022
+# Last Update - Fri Mar 25 02:00:07 UTC 2022
 # --------------------------------------------
-# Total domains: 469
+# Total domains: 470
 # --------------------------------------------
 # Total size: 8.5K
 # --------------------------------------------
@@ -435,6 +435,7 @@ tracker0.ufibox.com
 tracker01.loveapp.com
 tracker1.bt.moack.co.kr
 tracker1.itzmx.com
+tracker1.myporn.club
 tracker2.christianbro.pw
 tracker2.dler.com
 tracker2.dler.org
