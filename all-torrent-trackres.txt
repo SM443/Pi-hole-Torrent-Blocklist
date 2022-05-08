@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Mar 29 02:00:07 UTC 2022
+# Last Update - Sun May  8 19:01:22 UTC 2022
 # --------------------------------------------
-# Total domains: 470
+# Total domains: 481
 # --------------------------------------------
-# Total size: 8.5K
+# Total size: 8.6K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -124,12 +124,16 @@ h4.trakx.nibba.trade
 hdreactor.org
 home.yxgz.club
 home.yxgz.vip
+i-p-v-6.tk
 ibksturm.synology.me
 inferno.demonoid.is
 inferno.demonoid.pw
 ipv4.tracker.harry.lu
 ipv4announce.sktorrent.eu
+ipv6.1337.cx
+ipv6.69.mu
 ipv6.babico.name.tr
+ipv6.govt.hu
 ipv6.tracker.harry.lu
 ipv6.tracker.monitorit4.me
 ipv6.tracker.zerobytes.xyz
@@ -165,11 +169,13 @@ ns389251.ovh.net
 nyaa.tracker.wf
 o-unkusrx.cloud.okteto.net
 omg.wtftrackr.xyz
+open.4ever.tk
 open.acgnxtracker.com
 open.acgtracker.com
 open.demonii.com
 open.demonii.si
 open.dstud.io
+open.free-tracker.ga
 open.kickasstracker.com
 open.lolicon.eu
 open.nyaatorrents.info
@@ -289,6 +295,7 @@ tracker.anonwebz.xyz
 tracker.army
 tracker.auctor.tv
 tracker.babico.name.tr
+tracker.baka.ink
 tracker.baltracker.net
 tracker.beeimg.com
 tracker.birkenwald.de
@@ -321,6 +328,7 @@ tracker.edkj.club
 tracker.electro-torrent.pl
 tracker.etree.org
 tracker.ex.ua
+tracker.farted.net
 tracker.fatkhoala.org
 tracker.filemail.com
 tracker.filepit.to
@@ -345,6 +353,7 @@ tracker.internetwarriors.net
 tracker.ipv6tracker.ru
 tracker.iriseden.fr
 tracker.jordan.im
+tracker.k.vu
 tracker.kali.org
 tracker.kamigami.org
 tracker.kuroy.me
@@ -437,6 +446,7 @@ tracker1.bt.moack.co.kr
 tracker1.itzmx.com
 tracker1.myporn.club
 tracker2.christianbro.pw
+tracker2.ctix.cn
 tracker2.dler.com
 tracker2.dler.org
 tracker2.indowebster.com
@@ -477,6 +487,7 @@ xwt-classics.net
 xxxtor.com
 yuwabits.net
 z.mercax.com
+zecircle.xyz
 zephir.monocul.us
 zer0day.ch
 zer0day.to
