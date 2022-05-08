@@ -2,7 +2,7 @@
 Login to your Pi-Hole web interface, then go to `Group Management` > `Adlists`<br>
 
 ## Status
-![status](https://healthchecks.io/badge/096a1835-a69a-4be5-ad4d-676dd623abfe/LaBmNG1D-2.svg)
+![status](https://healthchecks.io/badge/312c1b71-aab2-4c0b-8ff1-1fd3275b8965/TE66yzmz-2.svg)
 
 ## Host Files
 Torrent Websites: [LINK](https://raw.githubusercontent.com/im-sm/Pi-hole-Torrent-Blocklist/main/all-torrent-websites.txt)<br>
