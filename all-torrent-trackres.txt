@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed May 11 08:00:05 UTC 2022
+# Last Update - Wed May 11 20:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 482
+# Total domains: 483
 # --------------------------------------------
-# Total size: 8.6K
+# Total size: 8.7K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -467,6 +467,7 @@ uatracker.net
 udp-tracker.shittyurl.org
 udp.yarr.pt
 ultra.zt.ua
+uraniumhexafluori.de
 us-tracker.publictracker.xyz
 valakas.rollo.dnsabr.com
 vibe.community
