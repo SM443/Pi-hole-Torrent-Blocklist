@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri May 13 08:00:04 UTC 2022
+# Last Update - Fri May 13 20:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 483
+# Total domains: 484
 # --------------------------------------------
 # Total size: 8.7K
 # --------------------------------------------
@@ -16,6 +16,7 @@
 1337.abcvg.info
 2.tracker.eu.org
 3.tracker.eu.org
+337hhh.xyz
 3rt.tace.ru
 47.ip-51-68-199.eu
 5rt.tace.ru
