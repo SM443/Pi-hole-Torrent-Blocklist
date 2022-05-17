@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon May 16 20:00:05 UTC 2022
+# Last Update - Tue May 17 08:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 486
+# Total domains: 487
 # --------------------------------------------
 # Total size: 8.7K
 # --------------------------------------------
@@ -472,6 +472,7 @@ udp.yarr.pt
 ultra.zt.ua
 uraniumhexafluori.de
 us-tracker.publictracker.xyz
+v2.iperson.xyz
 valakas.rollo.dnsabr.com
 vibe.community
 vibe.sleepyinternetfun.xyz
