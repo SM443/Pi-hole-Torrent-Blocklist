@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat May 21 08:00:04 UTC 2022
+# Last Update - Sat May 21 20:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 488
+# Total domains: 489
 # --------------------------------------------
-# Total size: 8.7K
+# Total size: 8.8K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -465,6 +465,7 @@ trakx.herokuapp.com
 tribalmixes.com
 trun.tom.ru
 tsundere.pw
+ttk.pp.ua
 u.wwwww.wtf
 u4.trakx.crim.ist
 uatracker.net
