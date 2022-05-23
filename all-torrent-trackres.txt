@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun May 22 20:00:05 UTC 2022
+# Last Update - Mon May 23 08:00:06 UTC 2022
 # --------------------------------------------
-# Total domains: 490
+# Total domains: 492
 # --------------------------------------------
 # Total size: 8.8K
 # --------------------------------------------
@@ -123,6 +123,7 @@ fxtt.ru
 git.vulnix.sh
 grifon.info
 h4.trakx.nibba.trade
+hcbt.pp.ua
 hdreactor.org
 home.yxgz.club
 home.yxgz.vip
@@ -149,6 +150,7 @@ leet-tracker.moe
 line-net.ru
 ln.mtahost.co
 loushao.net
+luna.jae.su
 mail.realliferpg.de
 mail2.zelenaya.net
 masters-tb.com
