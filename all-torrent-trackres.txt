@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Jun  3 20:00:05 UTC 2022
+# Last Update - Sat Jun  4 08:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 499
+# Total domains: 501
 # --------------------------------------------
 # Total size: 8.9K
 # --------------------------------------------
@@ -173,6 +173,7 @@ ns349743.ip-91-121-106.eu
 ns389251.ovh.net
 nyaa.tracker.wf
 o-unkusrx.cloud.okteto.net
+oldboystudy.com
 omg.wtftrackr.xyz
 open-v6.demonoid.ch
 open.4ever.tk
@@ -373,6 +374,7 @@ tracker.lelux.fi
 tracker.lilithraws.cf
 tracker.lilithraws.org
 tracker.loadbt.com
+tracker.logirl.moe
 tracker.loligirl.cn
 tracker.lyretain.site
 tracker.madassnews.net
