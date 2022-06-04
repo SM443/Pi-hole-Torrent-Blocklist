@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Jun  4 08:00:05 UTC 2022
+# Last Update - Sat Jun  4 20:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 501
+# Total domains: 503
 # --------------------------------------------
-# Total size: 8.9K
+# Total size: 9.0K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -326,6 +326,7 @@ tracker.ddunlimited.net
 tracker.dix.tf
 tracker.dler.com
 tracker.dler.org
+tracker.dmhy.pw
 tracker.dnlab.net
 tracker.ds.is
 tracker.dump.cl
@@ -458,6 +459,7 @@ tracker01.loveapp.com
 tracker1.520.jp
 tracker1.bt.moack.co.kr
 tracker1.itzmx.com
+tracker1.loli.co.nz
 tracker1.myporn.club
 tracker2.520.jp
 tracker2.christianbro.pw
