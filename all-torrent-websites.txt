@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent websites blocklist
 # --------------------------------------------
-# Last Update - Fri Jun 10 20:00:04 UTC 2022
+# Last Update - Sat Jun 11 08:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 3648
+# Total domains: 3650
 # --------------------------------------------
 # Total size: 59K
 # --------------------------------------------
@@ -41,6 +41,7 @@
 1337xto.to
 1337xto.xyz
 1337xtoindia.blogspot.com
+1377x.is
 141jav.com
 1bt.ru
 1movies.is
@@ -3159,6 +3160,7 @@ www.1337xhd.icu
 www.1337xmovies.org
 www.1337xto.to
 www.1337xto.xyz
+www.1377x.is
 www.2bbit.com
 www.700m.bz
 www.acid-lounge.org.uk
