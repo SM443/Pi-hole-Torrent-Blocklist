@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Jun 12 08:00:04 UTC 2022
+# Last Update - Sun Jun 12 20:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 504
+# Total domains: 506
 # --------------------------------------------
 # Total size: 9.0K
 # --------------------------------------------
@@ -365,6 +365,7 @@ tracker.imgoingto.icu
 tracker.internetwarriors.net
 tracker.ipv6tracker.ru
 tracker.iriseden.fr
+tracker.iro.moe
 tracker.jordan.im
 tracker.k.vu
 tracker.kali.org
@@ -504,6 +505,7 @@ www.loushao.net
 www.midea123.z-media.com.cn
 www.torrent.eu.org
 www.wareztorrent.com
+x7x.up.railway.app
 xarcotic.com
 xtremex.herokuapp.com
 xwt-classics.net
