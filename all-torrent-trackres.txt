@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Jun 25 08:00:05 UTC 2022
+# Last Update - Sat Jun 25 20:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 507
+# Total domains: 508
 # --------------------------------------------
 # Total size: 9.1K
 # --------------------------------------------
@@ -338,6 +338,7 @@ tracker.e-utp.net
 tracker.eddie4.nl
 tracker.edkj.club
 tracker.electro-torrent.pl
+tracker.encrypted-data.xyz
 tracker.etree.org
 tracker.ex.ua
 tracker.exorditech.com.tr
