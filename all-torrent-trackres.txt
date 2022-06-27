@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Jun 26 20:00:05 UTC 2022
+# Last Update - Mon Jun 27 08:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 508
+# Total domains: 541
 # --------------------------------------------
-# Total size: 9.1K
+# Total size: 9.6K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -14,6 +14,7 @@
 0205.uptm.ch
 1.tracker.eu.org
 1337.abcvg.info
+147job.com
 2.tracker.eu.org
 3.tracker.eu.org
 337hhh.tpddns.cn
@@ -29,11 +30,13 @@
 960303.xyz
 a.leopard-raws.org
 aaa.army
+aarsen.me
 abir0dev.github.io
 abufinzio.monocul.us
 academic-p2p.appspot.com
 acg.rip
 adm.category5.tv
+admin.52ywp.com
 admin.videoenpoche.info
 adminion.n-blade.ru
 all4nothin.net
@@ -41,10 +44,13 @@ anidex.moe
 api.bitumconference.ru
 aruacfilmes.com.br
 asger.xyz
+astrr.ru
 atrack.pow7.com
 baibako.tv
 bclearning.top
+ben.kerbertools.xyz
 benouworldtrip.fr
+betasoftsp.com.br
 big-boss-tracker.net
 bit-hdtv.com
 bithq.org
@@ -52,12 +58,14 @@ bitseduce.com
 bitsparadise.info
 bittorrent.gongt.net
 biztorrents.com
+black-bird.ynh.fr
 blackcats-games.net
 blackz.ro
 blokas.io
 bluebird-hd.org
 bms-hosxp.com
 bobbialbano.com
+boysbitte.be
 bt-club.ws
 bt-tracker.gamexp.ru
 bt.3dmgame.com
@@ -92,11 +100,15 @@ chihaya.de
 chihaya.toss.li
 cn.pcfreetime.com
 code2chicken.nl
+commento.getblog.cn
 concen.org
 cutiegirl.ru
+cutscloud.duckdns.org
 data-bg.net
 datascene.net
 daveking.com
+davidkirkevans.com
+debuz.com
 denis.stalker.upeer.me
 derpyradio.net
 deviloid.net
@@ -104,14 +116,18 @@ discord.heihachi.pw
 docker-tracker-production.up.railway.app
 dpiui.reedlan.com
 drumkitx.com
+dylan-park.com
 eddie4.nl
 edu.uifr.ru
 elitezones.ro
 engplus.ru
+epider.me
 escorts.subventas.com
+evert.net
 exodus.desync.com
 explodie.org
 fe.dealclub.de
+fh2.cmp-gaming.com
 filetracker.xyz
 finbytes.org
 forever-tracker.zooki.xyz
@@ -128,8 +144,10 @@ hcbt.pp.ua
 hdreactor.org
 home.yxgz.club
 home.yxgz.vip
+htz3.noho.st
 i-p-v-6.tk
 ibksturm.synology.me
+incine.ru
 inferno.demonoid.is
 inferno.demonoid.pw
 ipv4.tracker.harry.lu
@@ -152,6 +170,7 @@ line-net.ru
 ln.mtahost.co
 loushao.net
 luna.jae.su
+mail.lakameraobscura.com
 mail.realliferpg.de
 mail2.zelenaya.net
 masters-tb.com
@@ -167,6 +186,7 @@ movies.zsw.ca
 mts.tvbit.co
 mvgroup.org
 nagios.tks.sumy.ua
+new-line.net
 nextcloud.brandonsli.com
 novaopcj.icu
 ns-1.x-fins.com
@@ -209,12 +229,14 @@ potuk.com
 pow7.com
 prestige.minimafia.nl
 proaudiotorrents.org
+psyco.fr
 public-tracker.zooki.xyz
 public.popcorn-tracker.org
 public.publictracker.xyz
 public.tracker.vraphim.com
 publictracker.ch
 publictracker.xyz
+puresynergy.com
 qg.lorzl.gq
 reisub.nsupdate.info
 retracker.akado-ural.ru
@@ -232,11 +254,13 @@ rt.optizone.ru
 rt.tace.ru
 run.publictracker.xyz
 rutorrent.frontline-mod.com
+sanincode.com
 sd-161673.dedibox.fr
 secure.pow7.com
 shadowshq.eddie4.nl
 shadowshq.yi.org
 share.camoe.cn
+shizzle.hammetjus.nl
 shnflac.net
 siambt.com
 static.46.73.46.78.clients.your-server.de
@@ -255,11 +279,15 @@ t3.leech.ie
 tc-boxing.com
 tehconnection.eu
 thegeeks.bz
+themaninashed.com
 theoccult.bz
+theodoric.fr
 theplace.bz
 thetracker.org
 thetradersden.org
 thevault.bz
+thinking.duckdns.org
+thouvenin.cloud
 tk.mabo.ltd
 tk.nvacg.org
 torrent-team.net
@@ -480,6 +508,7 @@ tracker6.dler.org
 tracker6.lelux.fi
 trackme.theom.nz
 trakx.herokuapp.com
+transkaroo.joustasie.net
 tribalmixes.com
 trun.tom.ru
 tsundere.pw
@@ -490,6 +519,7 @@ uatracker.net
 udp-tracker.shittyurl.org
 udp.yarr.pt
 ultra.zt.ua
+unit193.net
 uraniumhexafluori.de
 us-tracker.publictracker.xyz
 v2.iperson.xyz
@@ -501,6 +531,7 @@ vps02.net.orel.ru
 w.wwwww.wtf
 wareztorrent.com
 wassermann.online
+widemus.de
 worldboxingvideoarchive.com
 www.all4nothin.net
 www.loushao.net
@@ -512,6 +543,8 @@ xarcotic.com
 xtremex.herokuapp.com
 xwt-classics.net
 xxxtor.com
+yahor.ftp.sh
+yann5.hexanyn.fr
 yuwabits.net
 z.mercax.com
 zecircle.xyz
