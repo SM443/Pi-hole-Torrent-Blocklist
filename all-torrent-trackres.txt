@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Jun 27 08:00:04 UTC 2022
+# Last Update - Mon Jun 27 20:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 541
+# Total domains: 559
 # --------------------------------------------
-# Total size: 9.6K
+# Total size: 9.8K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -39,9 +39,11 @@ adm.category5.tv
 admin.52ywp.com
 admin.videoenpoche.info
 adminion.n-blade.ru
+aez-srv.srv00.com
 all4nothin.net
 anidex.moe
 api.bitumconference.ru
+appmeter.ru
 aruacfilmes.com.br
 asger.xyz
 astrr.ru
@@ -115,6 +117,7 @@ deviloid.net
 discord.heihachi.pw
 docker-tracker-production.up.railway.app
 dpiui.reedlan.com
+drteam.rocks
 drumkitx.com
 dylan-park.com
 eddie4.nl
@@ -159,14 +162,18 @@ ipv6.govt.hu
 ipv6.tracker.harry.lu
 ipv6.tracker.monitorit4.me
 ipv6.tracker.zerobytes.xyz
+itera.bz
 jeremylee.sh
 jsb.by
 kanal-4.de
+keke.re
 kinorun.com
 koli.services
 learnbits.me
 leet-tracker.moe
+letsdecentralize.org
 line-net.ru
+linfan.moe
 ln.mtahost.co
 loushao.net
 luna.jae.su
@@ -182,7 +189,9 @@ milanesitracker.tekcities.com
 milliontorrent.pl
 mirror.aptus.co.tz
 mixfiend.com
+moonburrow.club
 movies.zsw.ca
+mserver.link
 mts.tvbit.co
 mvgroup.org
 nagios.tks.sumy.ua
@@ -190,6 +199,7 @@ new-line.net
 nextcloud.brandonsli.com
 novaopcj.icu
 ns-1.x-fins.com
+ns331480.ip-37-187-121.eu
 ns349743.ip-91-121-106.eu
 ns389251.ovh.net
 nyaa.tracker.wf
@@ -238,6 +248,8 @@ publictracker.ch
 publictracker.xyz
 puresynergy.com
 qg.lorzl.gq
+qtstm32fan.ru
+ransan.tk
 reisub.nsupdate.info
 retracker.akado-ural.ru
 retracker.baikal-telecom.net
@@ -263,6 +275,8 @@ share.camoe.cn
 shizzle.hammetjus.nl
 shnflac.net
 siambt.com
+smtp.flawcra.cc
+srv5.digiboy.ir
 static.46.73.46.78.clients.your-server.de
 sukebei.tracker.wf
 t.acg.rip
@@ -270,6 +284,7 @@ t.btcland.xyz
 t.nyaatracker.com
 t.overflow.biz
 t.publictracker.xyz
+t1.chfs.ch
 t1.leech.ie
 t1.pow7.com
 t1.tokhmi.xyz
@@ -323,6 +338,7 @@ tracker.0o.is
 tracker.0x.tf
 tracker.3304399.com
 tracker.36dm.com
+tracker.4.babico.name.tr
 tracker.acgnx.se
 tracker.aeerso.space
 tracker.aletorrenty.pl
@@ -510,6 +526,7 @@ trackme.theom.nz
 trakx.herokuapp.com
 transkaroo.joustasie.net
 tribalmixes.com
+tronml.cf
 trun.tom.ru
 tsundere.pw
 ttk.pp.ua
@@ -520,6 +537,7 @@ udp-tracker.shittyurl.org
 udp.yarr.pt
 ultra.zt.ua
 unit193.net
+uploads.gamecoast.net
 uraniumhexafluori.de
 us-tracker.publictracker.xyz
 v2.iperson.xyz
