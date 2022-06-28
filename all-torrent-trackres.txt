@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Jun 27 20:00:05 UTC 2022
+# Last Update - Tue Jun 28 08:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 559
+# Total domains: 566
 # --------------------------------------------
-# Total size: 9.8K
+# Total size: 10K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -165,6 +165,7 @@ ipv6.tracker.zerobytes.xyz
 itera.bz
 jeremylee.sh
 jsb.by
+k1.com.br
 kanal-4.de
 keke.re
 kinorun.com
@@ -174,11 +175,14 @@ leet-tracker.moe
 letsdecentralize.org
 line-net.ru
 linfan.moe
+lloria.fr
 ln.mtahost.co
 loushao.net
 luna.jae.su
+mail.artixlinux.org
 mail.lakameraobscura.com
 mail.realliferpg.de
+mail.zasaonsk.ga
 mail2.zelenaya.net
 masters-tb.com
 mediaclub.tv
@@ -251,6 +255,7 @@ qg.lorzl.gq
 qtstm32fan.ru
 ransan.tk
 reisub.nsupdate.info
+rep-art.ynh.fr
 retracker.akado-ural.ru
 retracker.baikal-telecom.net
 retracker.hotplug.ru
@@ -275,6 +280,7 @@ share.camoe.cn
 shizzle.hammetjus.nl
 shnflac.net
 siambt.com
+smtp-relay.odysseylabel.com.au
 smtp.flawcra.cc
 srv5.digiboy.ir
 static.46.73.46.78.clients.your-server.de
@@ -291,6 +297,7 @@ t1.tokhmi.xyz
 t2.leech.ie
 t2.pow7.com
 t3.leech.ie
+tamas3.ynh.fr
 tc-boxing.com
 tehconnection.eu
 thegeeks.bz
