@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Jun 29 08:00:05 UTC 2022
+# Last Update - Wed Jun 29 20:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 567
+# Total domains: 571
 # --------------------------------------------
-# Total size: 10K
+# Total size: 11K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -67,6 +67,7 @@ blokas.io
 bluebird-hd.org
 bms-hosxp.com
 bobbialbano.com
+box.ossete.eu.org
 boysbitte.be
 bt-club.ws
 bt-tracker.gamexp.ru
@@ -229,6 +230,7 @@ open.touki.ru
 open.tracker.cl
 open.tracker.ink
 open.xxtor.com
+open6.demonii.com
 openbittorrent.com
 opentor.org
 opentracker.acgnx.com
@@ -322,6 +324,7 @@ torrent.tdjs.tech
 torrentclub.space
 torrentclub.tech
 torrents-nn.cn
+torrents.artixlinux.org
 torrentsmd.com
 torrenttracker.nwc.acsalaska.net
 torrentzilla.org
@@ -355,6 +358,7 @@ tracker.altrosky.nl
 tracker.anirena.com
 tracker.anonwebz.xyz
 tracker.army
+tracker.artixlinux.org
 tracker.auctor.tv
 tracker.babico.name.tr
 tracker.baka.ink
