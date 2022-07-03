@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Jul  3 08:00:04 UTC 2022
+# Last Update - Sun Jul  3 20:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 573
+# Total domains: 574
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -173,6 +173,7 @@ kanal-4.de
 keke.re
 kinorun.com
 koli.services
+laze.cc
 learnbits.me
 leet-tracker.moe
 letsdecentralize.org
