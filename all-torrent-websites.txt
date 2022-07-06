@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent websites blocklist
 # --------------------------------------------
-# Last Update - Wed Jul  6 08:00:03 UTC 2022
+# Last Update - Wed Jul  6 12:15:58 UTC 2022
 # --------------------------------------------
-# Total domains: 3650
+# Total domains: 3671
 # --------------------------------------------
 # Total size: 59K
 # --------------------------------------------
@@ -64,6 +64,7 @@
 4anime.to
 4torrent.games
 54new.com
+5mins.shop
 5movies.to
 720pstream.me
 7tor.org
@@ -1493,6 +1494,7 @@ mininova.biz
 mininova.org
 miobt.com
 miomio.tv
+mirrorbay.top
 mirrortorrents.ru
 miska-mccute.net
 mitorrent.org
@@ -1752,9 +1754,12 @@ pianosheets.org
 pianyuan.net
 pig2pig.com
 pinoytorrents.net
+piraat.xyz
 piranha.excom.us
 piratbaytpb.one
 pirate-bay.net
+pirate-proxy.club
+pirate-proxy.fun
 pirate-share.net
 piratebaaiahoy.org
 piratebae.co.uk
@@ -1778,8 +1783,11 @@ piratebay1.live
 piratebay1.xyz
 piratebaylive.com
 piratebaylive.online
+piratebayorg.net
 piratebayproxy.cx
 piratebayproxy.info
+piratebayproxy.live
+piratebayproxy.rocks
 piratebayproxy.top
 piratebays.in
 piratebays.org
@@ -1798,18 +1806,24 @@ pirateiro.com
 pirateiro.unblocked.llc
 piratenow.xyz
 piratepirate.net
+piratepiratebay.com
 piratepiratepirate.net
 pirateproxy-bay.com
+pirateproxy.best
 pirateproxy.cloud
+pirateproxy.digital
 pirateproxy.fi
 pirateproxy.id
 pirateproxy.lat
 pirateproxy.live
 pirateproxy.name
+pirateproxy.network
+pirateproxy.quest
 pirateproxy.vet
 pirateproxylove.uk
 pirates-cove.biz
 piratesbay.one
+piratesbay.sbs
 piratesbaycc.com
 piratetoday.xyz
 piratetorrent.org
@@ -1885,6 +1899,7 @@ prototype24.ath.cx
 proxahoy.link
 proxbaypirate.org
 proxieswegotproxies.com
+proxifiedpiratebay.org
 proxtpb.art
 proxtpbportal.tel
 proxy247.art
@@ -2334,6 +2349,7 @@ thekickasstorrents.to
 themediasite.net
 themixingbowl.org
 theoccult.bz
+thepb.cyou
 thepeerhub.com
 thepirate-bay.org
 thepirate.host
@@ -2754,6 +2770,7 @@ tpb.tracker.thepiratebay.org
 tpb.ukpass.co
 tpb15.ukpass.co
 tpb16.ukpass.co
+tpb24.ukpass.co
 tpb4.ukpass.co
 tpbay.win
 tpbgreen.link
@@ -3011,8 +3028,11 @@ uatracker.net
 uberprofile.info
 uhdbits.org
 uid.hu
+uk-pirate-bay.com
+uk-pirate.com
 uknova.com
 ukpass.co
+ukpass.fun
 ukpiratebayproxy.com
 uks-torrents.no-ip.com
 uktorrents.com
@@ -3035,6 +3055,7 @@ unionpeer.org
 unique-tracker.com
 uniteam.co
 unlimited-tracker.net
+unlockedpiratebay.com
 unrealtorrents.com
 upawg.ca
 update.bittorrent.com
