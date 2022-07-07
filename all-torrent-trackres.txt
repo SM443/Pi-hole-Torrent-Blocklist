@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Jul  6 20:00:05 UTC 2022
+# Last Update - Thu Jul  7 08:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 575
+# Total domains: 576
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -139,6 +139,7 @@ forever-tracker.zooki.xyz
 forever.publictracker.xyz
 fosstorrents.com
 free-tracker.zooki.xyz
+free.open.tracker.4.starka.st
 ftp.pet
 funfile.org
 fxtt.ru
