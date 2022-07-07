@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Jul  7 08:00:05 UTC 2022
+# Last Update - Thu Jul  7 20:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 576
+# Total domains: 578
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -317,6 +317,7 @@ thetradersden.org
 thevault.bz
 thinking.duckdns.org
 thouvenin.cloud
+thug.rocks
 tk.mabo.ltd
 tk.nvacg.org
 torrent-team.net
@@ -568,6 +569,7 @@ wareztorrent.com
 wassermann.online
 widemus.de
 worldboxingvideoarchive.com
+www.2600.com
 www.all4nothin.net
 www.loushao.net
 www.midea123.z-media.com.cn
