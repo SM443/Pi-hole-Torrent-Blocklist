@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Jul 11 08:00:04 UTC 2022
+# Last Update - Mon Jul 11 20:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 579
+# Total domains: 580
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -79,6 +79,7 @@ bt.edwardk.info
 bt.endpot.com
 bt.firebit.org
 bt.hliang.com
+bt.ktrackers.com
 bt.oiyo.tk
 bt.okmp3.ru
 bt.pusacg.org
