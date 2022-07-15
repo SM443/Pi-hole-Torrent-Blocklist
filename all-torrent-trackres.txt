@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Jul 15 08:00:05 UTC 2022
+# Last Update - Fri Jul 15 20:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 583
+# Total domains: 584
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -103,6 +103,7 @@ chennuo.xyz
 chihaya-heroku.120181311.xyz
 chihaya.de
 chihaya.toss.li
+chouchou.top
 cn.pcfreetime.com
 code2chicken.nl
 commento.getblog.cn
