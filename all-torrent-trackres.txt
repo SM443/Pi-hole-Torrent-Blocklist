@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Jul 17 08:00:04 UTC 2022
+# Last Update - Sun Jul 17 20:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 584
+# Total domains: 586
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -22,6 +22,7 @@
 3rt.tace.ru
 47.ip-51-68-199.eu
 5rt.tace.ru
+6.beyondth.cn
 61626c.net
 6ahddutb1ucc3cp.ru
 9.rarbg.com
@@ -39,6 +40,7 @@ adm.category5.tv
 admin.52ywp.com
 admin.videoenpoche.info
 adminion.n-blade.ru
+adt.adt-textile.ru
 aez-srv.srv00.com
 all4nothin.net
 anidex.moe
