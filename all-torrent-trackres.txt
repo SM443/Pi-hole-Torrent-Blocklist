@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Aug  2 20:00:04 UTC 2022
+# Last Update - Wed Aug  3 08:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 594
+# Total domains: 595
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -299,6 +299,7 @@ shnflac.net
 siambt.com
 smtp-relay.odysseylabel.com.au
 smtp.flawcra.cc
+soysta-fr1.dev.sercomkc.org
 srv5.digiboy.ir
 static.46.73.46.78.clients.your-server.de
 sukebei.tracker.wf
