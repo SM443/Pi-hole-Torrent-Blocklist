@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Aug  4 08:00:06 UTC 2022
+# Last Update - Thu Aug  4 20:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 595
+# Total domains: 596
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -506,6 +506,7 @@ tracker.sylphix.com
 tracker.tambovnet.org
 tracker.tamersunion.org
 tracker.tasvideos.org
+tracker.tcp.exchange
 tracker.teambelgium.net
 tracker.tfile.me
 tracker.theempire.bz
