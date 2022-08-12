@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Aug 12 08:00:05 UTC 2022
+# Last Update - Fri Aug 12 20:00:06 UTC 2022
 # --------------------------------------------
-# Total domains: 597
+# Total domains: 598
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -30,6 +30,7 @@
 9.rarbg.me
 9.rarbg.to
 960303.xyz
+a.cdd5090t.tk
 a.leopard-raws.org
 aaa.army
 aarsen.me
