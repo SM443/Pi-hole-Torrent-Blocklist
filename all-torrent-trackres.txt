@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Sep  1 08:00:06 UTC 2022
+# Last Update - Thu Sep  1 20:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 601
+# Total domains: 602
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -298,6 +298,7 @@ share.camoe.cn
 shizzle.hammetjus.nl
 shnflac.net
 siambt.com
+slicie.icon256.com
 smtp-relay.odysseylabel.com.au
 smtp.flawcra.cc
 soysta-fr1.dev.sercomkc.org
