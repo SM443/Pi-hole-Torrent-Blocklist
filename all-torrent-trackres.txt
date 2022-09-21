@@ -513,7 +513,6 @@ tracker.skynetcloud.site
 tracker.skyts.net
 tracker.sloppyta.co
 tracker.srv00.com
-tracker.sushirave.net
 tracker.swarm3.network
 tracker.swateam.org.uk
 tracker.sylphix.com
