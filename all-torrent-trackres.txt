@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Sep 22 08:00:05 UTC 2022
+# Last Update - Thu Sep 22 20:00:06 UTC 2022
 # --------------------------------------------
-# Total domains: 617
+# Total domains: 619
 # --------------------------------------------
 # Total size: 11K
 # --------------------------------------------
@@ -98,6 +98,7 @@ btracker.top
 btt.service.gongt.me
 bttracker.sylphix.com
 bubu.mapfactor.com
+buddyfly.top
 buny.uk
 camera.lei001.com
 carbon-bonsai-621.appspot.com
@@ -614,6 +615,7 @@ www.nekos96.xyz
 www.skynetcenter.me
 www.torrent.eu.org
 www.wareztorrent.com
+www.zhaohu.love
 x7x.up.railway.app
 xarcotic.com
 xtremex.herokuapp.com
