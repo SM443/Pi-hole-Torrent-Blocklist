@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Sep 24 08:00:05 UTC 2022
+# Last Update - Sat Sep 24 20:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 619
+# Total domains: 636
 # --------------------------------------------
-# Total size: 11K
+# Total size: 12K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -16,6 +16,7 @@
 1337.abcvg.info
 147job.com
 2.tracker.eu.org
+204.79.238.89.in-addr.arpa.manitu.net
 3.tracker.eu.org
 337hhh.tpddns.cn
 337hhh.xyz
@@ -29,6 +30,7 @@
 9.rarbg.com
 9.rarbg.me
 9.rarbg.to
+94-227-232-84.access.telenet.be
 960303.xyz
 a.cdd5090t.tk
 a.leopard-raws.org
@@ -54,6 +56,7 @@ asger.xyz
 astrr.ru
 atrack.pow7.com
 baibako.tv
+bananas.space
 bclearning.top
 ben.kerbertools.xyz
 benouworldtrip.fr
@@ -102,6 +105,7 @@ buddyfly.top
 buny.uk
 camera.lei001.com
 carbon-bonsai-621.appspot.com
+carr.codes
 cdn-1.gamecoast.org
 cdn-2.gamecoast.org
 chanakancloud.net
@@ -129,12 +133,14 @@ deviloid.net
 dfireworks.eu.org
 discord.heihachi.pw
 docker-tracker-production.up.railway.app
+download.nerocloud.me
 dpiui.reedlan.com
 drteam.rocks
 drumkitx.com
 dylan-park.com
 eddie4.nl
 edu.uifr.ru
+elementsbrowser.com
 elitezones.ro
 engplus.ru
 epider.me
@@ -142,6 +148,7 @@ escorts.subventas.com
 evert.net
 exodus.desync.com
 explodie.org
+f1sh.de
 fe.dealclub.de
 fh2.cmp-gaming.com
 filetracker.xyz
@@ -159,6 +166,7 @@ git.vulnix.sh
 grifon.info
 h3o2.me
 h4.trakx.nibba.trade
+h85-235-17-132.cust.a3fiber.se
 hcbt.pp.ua
 hdreactor.org
 home.yxgz.club
@@ -187,18 +195,21 @@ k1.com.br
 kanal-4.de
 keke.re
 kinorun.com
+kokodayo.site
 koli.services
 laze.cc
 learnbits.me
 leefafa.tk
 leet-tracker.moe
 letsdecentralize.org
+li1406-230.members.linode.com
 line-net.ru
 linfan.moe
 lloria.fr
 ln.mtahost.co
 loushao.net
 luna.jae.su
+madiator.com
 mail.artixlinux.org
 mail.lakameraobscura.com
 mail.realliferpg.de
@@ -260,6 +271,7 @@ opentracker.i2p.rocks
 opentracker.lingyurouqing.xyz
 opentracker.xyz
 p4p.arenabg.com
+parag.rs
 peerfect.org
 pldm.ml
 potuk.com
@@ -312,7 +324,9 @@ smtp-relay.odysseylabel.com.au
 smtp.flawcra.cc
 soysta-fr1.dev.sercomkc.org
 srv5.digiboy.ir
+static.202.35.76.144.clients.your-server.de
 static.46.73.46.78.clients.your-server.de
+static.54.161.216.95.clients.your-server.de
 sukebei.tracker.wf
 t.acg.rip
 t.btcland.xyz
@@ -495,6 +509,7 @@ tracker.nyap2p.com
 tracker.ololosh.space
 tracker.open-internet.nl
 tracker.openbittorrent.com
+tracker.openbtba.com
 tracker.opentracker.se
 tracker.opentrackr.org
 tracker.parrotlinux.org
@@ -594,12 +609,14 @@ unit193.net
 uploads.gamecoast.net
 uraniumhexafluori.de
 us-tracker.publictracker.xyz
+v1046920.hosted-by-vdsina.ru
 v2.iperson.xyz
 valakas.rollo.dnsabr.com
 vibe.community
 vibe.sleepyinternetfun.xyz
 voxhost.fr
 vpn.flying-datacenter.de
+vps-dd0a0715.vps.ovh.net
 vps.skynetcenter.me
 vps02.net.orel.ru
 w.wwwww.wtf
