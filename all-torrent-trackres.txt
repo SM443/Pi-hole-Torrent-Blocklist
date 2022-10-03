@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Oct  3 08:00:05 UTC 2022
+# Last Update - Mon Oct  3 20:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 640
+# Total domains: 641
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -105,6 +105,7 @@ bubu.mapfactor.com
 buddyfly.top
 buny.uk
 camera.lei001.com
+cancela-tu.creditofiscal.mx
 carbon-bonsai-621.appspot.com
 carr.codes
 cdn-1.gamecoast.org
