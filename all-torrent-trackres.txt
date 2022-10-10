@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Oct 10 08:00:05 UTC 2022
+# Last Update - Mon Oct 10 20:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 642
+# Total domains: 643
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -360,6 +360,7 @@ thevault.bz
 thinking.duckdns.org
 thouvenin.cloud
 thug.rocks
+tk.greedland.net
 tk.mabo.ltd
 tk.nvacg.org
 torrent-team.net
