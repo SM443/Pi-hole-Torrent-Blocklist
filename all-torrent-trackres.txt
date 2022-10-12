@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Oct 11 20:00:05 UTC 2022
+# Last Update - Wed Oct 12 08:00:06 UTC 2022
 # --------------------------------------------
-# Total domains: 643
+# Total domains: 644
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -418,6 +418,7 @@ tracker.birkenwald.de
 tracker.bitsearch.to
 tracker.bittor.pw
 tracker.bittorrent.am
+tracker.bittorrent.nibblepoker.lu
 tracker.blacksparrowmedia.net
 tracker.breizh.pm
 tracker.bt-hash.com
