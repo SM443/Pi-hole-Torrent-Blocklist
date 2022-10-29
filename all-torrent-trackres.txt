@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Oct 28 20:00:06 UTC 2022
+# Last Update - Sat Oct 29 08:00:09 UTC 2022
 # --------------------------------------------
-# Total domains: 646
+# Total domains: 647
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -134,6 +134,7 @@ derpyradio.net
 deviloid.net
 dfireworks.eu.org
 discord.heihachi.pw
+dns.xxtor.com
 docker-tracker-production.up.railway.app
 download.nerocloud.me
 dpiui.reedlan.com
