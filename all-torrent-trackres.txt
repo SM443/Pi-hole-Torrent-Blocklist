@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Nov  4 14:00:04 UTC 2022
+# Last Update - Sat Nov  5 02:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 653
+# Total domains: 654
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -454,6 +454,7 @@ tracker.etree.org
 tracker.ex.ua
 tracker.exorditech.com.tr
 tracker.expli.top
+tracker.fansub.id
 tracker.farted.net
 tracker.fatkhoala.org
 tracker.feb217.tk
