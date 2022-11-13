@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Nov 13 02:00:05 UTC 2022
+# Last Update - Sun Nov 13 14:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 658
+# Total domains: 666
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -23,6 +23,7 @@
 337hhh.xyz
 3rt.tace.ru
 47.ip-51-68-199.eu
+504e163a.host.njalla.net
 5rt.tace.ru
 6.beyondth.cn
 61626c.net
@@ -41,11 +42,13 @@ abir0dev.github.io
 abufinzio.monocul.us
 academic-p2p.appspot.com
 acg.rip
+acxx.de
 adm.category5.tv
 admin.52ywp.com
 admin.videoenpoche.info
 adminion.n-blade.ru
 adt.adt-textile.ru
+aegir.sexy
 aez-srv.srv00.com
 all4nothin.net
 anidex.moe
@@ -59,6 +62,7 @@ atrack.pow7.com
 baibako.tv
 bananas.space
 bclearning.top
+bedro.cloud
 ben.kerbertools.xyz
 benouworldtrip.fr
 betasoftsp.com.br
@@ -134,6 +138,7 @@ denis.stalker.upeer.me
 derpyradio.net
 deviloid.net
 dfireworks.eu.org
+dht.bt251.com
 discord.heihachi.pw
 dn42.smrsh.net
 dns.xxtor.com
@@ -204,6 +209,7 @@ keke.re
 kinorun.com
 kokodayo.site
 koli.services
+kristof.bartanet.cz
 laze.cc
 learnbits.me
 leefafa.tk
@@ -285,6 +291,7 @@ pldm.ml
 potuk.com
 pow7.com
 prestige.minimafia.nl
+private.anonseed.com
 proaudiotorrents.org
 psyco.fr
 public-tracker.zooki.xyz
@@ -354,6 +361,7 @@ t3.leech.ie
 tamas3.ynh.fr
 tc-boxing.com
 tehconnection.eu
+thagoat.rocks
 thebytestore.co.uk
 thegeeks.bz
 themaninashed.com
