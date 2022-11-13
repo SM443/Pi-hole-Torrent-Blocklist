@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Nov 12 14:00:05 UTC 2022
+# Last Update - Sun Nov 13 02:00:05 UTC 2022
 # --------------------------------------------
-# Total domains: 654
+# Total domains: 658
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -135,6 +135,7 @@ derpyradio.net
 deviloid.net
 dfireworks.eu.org
 discord.heihachi.pw
+dn42.smrsh.net
 dns.xxtor.com
 docker-tracker-production.up.railway.app
 download.nerocloud.me
@@ -277,6 +278,7 @@ opentracker.i2p.rocks
 opentracker.lingyurouqing.xyz
 opentracker.xyz
 p4p.arenabg.com
+p5796a22a.dip0.t-ipconnect.de
 parag.rs
 peerfect.org
 pldm.ml
@@ -330,6 +332,7 @@ smtp-relay.odysseylabel.com.au
 smtp.flawcra.cc
 soysta-fr1.dev.sercomkc.org
 srv5.digiboy.ir
+stargrave.org
 static.202.35.76.144.clients.your-server.de
 static.46.73.46.78.clients.your-server.de
 static.54.161.216.95.clients.your-server.de
@@ -450,6 +453,7 @@ tracker.eddie4.nl
 tracker.edkj.club
 tracker.electro-torrent.pl
 tracker.encrypted-data.xyz
+tracker.enitin.xyz
 tracker.etree.org
 tracker.ex.ua
 tracker.exorditech.com.tr
