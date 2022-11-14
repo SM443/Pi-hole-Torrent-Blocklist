@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Nov 13 14:00:05 UTC 2022
+# Last Update - Mon Nov 14 02:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 666
+# Total domains: 667
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -256,6 +256,7 @@ nyaa.tracker.wf
 o-unkusrx.cloud.okteto.net
 oldboystudy.com
 omg.wtftrackr.xyz
+open-tracker.demonoid.ch
 open-v6.demonoid.ch
 open.4ever.tk
 open.acgnxtracker.com
