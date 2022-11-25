@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Nov 24 14:00:05 UTC 2022
+# Last Update - Fri Nov 25 02:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 672
+# Total domains: 673
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -14,6 +14,7 @@
 00.xxtor.com
 0205.uptm.ch
 1.tracker.eu.org
+107.189.10.20.sslip.io
 1337.abcvg.info
 147job.com
 2.tracker.eu.org
