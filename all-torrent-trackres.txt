@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Dec  4 14:00:05 UTC 2022
+# Last Update - Mon Dec  5 02:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 675
+# Total domains: 677
 # --------------------------------------------
 # Total size: 12K
 # --------------------------------------------
@@ -139,6 +139,7 @@ debuz.com
 denis.stalker.upeer.me
 derpyradio.net
 deviloid.net
+devops.gay
 dfireworks.eu.org
 dht.bt251.com
 discord.heihachi.pw
@@ -557,6 +558,7 @@ tracker.rp-api.tech
 tracker.rsplwe.com
 tracker.sakurato.art
 tracker.sbsub.com
+tracker.servequake.com
 tracker.shkinev.me
 tracker.skynetcloud.site
 tracker.skyts.net
