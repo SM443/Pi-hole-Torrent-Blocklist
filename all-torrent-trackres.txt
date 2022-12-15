@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Dec 15 02:00:04 UTC 2022
+# Last Update - Thu Dec 15 14:00:06 UTC 2022
 # --------------------------------------------
-# Total domains: 681
+# Total domains: 682
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -352,6 +352,7 @@ static.46.73.46.78.clients.your-server.de
 static.54.161.216.95.clients.your-server.de
 sukebei.tracker.wf
 sx.xxtor.com
+t.133335.xyz
 t.acg.rip
 t.btcland.xyz
 t.nyaatracker.com
