@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Dec 21 14:00:06 UTC 2022
+# Last Update - Thu Dec 22 02:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 682
+# Total domains: 683
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -672,6 +672,7 @@ www.2600.com
 www.all4nothin.net
 www.loushao.net
 www.midea123.z-media.com.cn
+www.nartlof.com.br
 www.nekos96.xyz
 www.peckservers.com
 www.skynetcenter.me
