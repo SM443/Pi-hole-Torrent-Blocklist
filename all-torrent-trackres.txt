@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Dec 26 14:00:05 UTC 2022
+# Last Update - Tue Dec 27 02:00:04 UTC 2022
 # --------------------------------------------
-# Total domains: 684
+# Total domains: 685
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -101,6 +101,7 @@ bt.plc.mx
 bt.pusacg.org
 bt.zlofenix.org
 bt1.archive.org
+bt1.letpo.com
 bt2.54new.com
 bt2.archive.org
 bt2.edwardk.info
