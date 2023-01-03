@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Jan  2 14:00:06 UTC 2023
+# Last Update - Tue Jan  3 02:00:06 UTC 2023
 # --------------------------------------------
-# Total domains: 688
+# Total domains: 689
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -244,6 +244,7 @@ milliontorrent.pl
 mirror.aptus.co.tz
 mixfiend.com
 moeweb.pw
+montreal.nyap2p.com
 moonburrow.club
 movies.zsw.ca
 mserver.link
