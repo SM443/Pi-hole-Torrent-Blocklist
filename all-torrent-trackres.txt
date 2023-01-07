@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Jan  6 14:00:04 UTC 2023
+# Last Update - Sat Jan  7 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 691
+# Total domains: 692
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -519,6 +519,7 @@ tracker.kuroy.me
 tracker.leech.ie
 tracker.leechers-paradise.org
 tracker.lelux.fi
+tracker.letpo.com
 tracker.lilithraws.cf
 tracker.lilithraws.org
 tracker.loadbt.com
