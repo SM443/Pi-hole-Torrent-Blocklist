@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Jan 25 14:00:05 UTC 2023
+# Last Update - Thu Jan 26 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 693
+# Total domains: 694
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -143,6 +143,7 @@ deviloid.net
 devops.gay
 dfireworks.eu.org
 dht.bt251.com
+dht.dhtclub.com
 discord.heihachi.pw
 dn42.smrsh.net
 dns.xxtor.com
