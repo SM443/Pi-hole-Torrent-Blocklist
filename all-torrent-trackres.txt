@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Feb  4 14:00:05 UTC 2023
+# Last Update - Sun Feb  5 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 694
+# Total domains: 695
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -643,6 +643,7 @@ tracker6.dler.org
 tracker6.lelux.fi
 trackerb.jonaslsa.com
 trackers.mlsub.net
+trackers.ydns.eu
 trackme.theom.nz
 trakx.herokuapp.com
 transkaroo.joustasie.net
