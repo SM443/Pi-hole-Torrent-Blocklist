@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Feb 19 14:00:04 UTC 2023
+# Last Update - Mon Feb 20 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 698
+# Total domains: 700
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -291,6 +291,7 @@ opentracker.acgnx.com
 opentracker.acgnx.se
 opentracker.cc
 opentracker.i2p.rocks
+opentracker.io
 opentracker.lingyurouqing.xyz
 opentracker.xyz
 p2p.0g.cx
@@ -392,6 +393,7 @@ tk.greedland.net
 tk.mabo.ltd
 tk.nvacg.org
 torrent-team.net
+torrent-tracker.hama3.net
 torrent.arjlover.net
 torrent.mp3quran.net
 torrent.nwps.ws
