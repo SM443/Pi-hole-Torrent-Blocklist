@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Mar  7 14:00:05 UTC 2023
+# Last Update - Wed Mar  8 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 701
+# Total domains: 702
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -438,6 +438,7 @@ tracker.ali213.net
 tracker.altrosky.nl
 tracker.anirena.com
 tracker.anonwebz.xyz
+tracker.arcbox.cc
 tracker.army
 tracker.artixlinux.org
 tracker.auctor.tv
