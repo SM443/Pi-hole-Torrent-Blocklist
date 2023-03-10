@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Mar  9 14:00:04 UTC 2023
+# Last Update - Fri Mar 10 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 702
+# Total domains: 703
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -586,6 +586,7 @@ tracker.srv00.com
 tracker.sushirave.net
 tracker.swarm3.network
 tracker.swateam.org.uk
+tracker.swifte.space
 tracker.sylphix.com
 tracker.tambovnet.org
 tracker.tamersunion.org
