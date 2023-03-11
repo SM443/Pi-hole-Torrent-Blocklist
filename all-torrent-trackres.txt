@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Mar 10 14:00:05 UTC 2023
+# Last Update - Sat Mar 11 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 703
+# Total domains: 705
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -129,6 +129,7 @@ cn.pcfreetime.com
 code2chicken.nl
 commento.getblog.cn
 concen.org
+connect.swifte.space
 creative.7o7.cx
 cutiegirl.ru
 cutscloud.duckdns.org
@@ -573,6 +574,7 @@ tracker.publictracker.xyz
 tracker.pussytorrents.org
 tracker.qu.ax
 tracker.quix.cf
+tracker.renfei.net
 tracker.rp-api.tech
 tracker.rsplwe.com
 tracker.sakurato.art
