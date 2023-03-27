@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Mar 27 02:00:04 UTC 2023
+# Last Update - Mon Mar 27 14:00:06 UTC 2023
 # --------------------------------------------
-# Total domains: 707
+# Total domains: 708
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -421,6 +421,7 @@ tr.highstar.shop
 tr.kxmp.cf
 tr.ready4.icu
 tr.torland.ga
+tr2.cubonegro.lol
 tr2.ysagin.top
 track.plop.pm
 tracker-udp.gbitt.info
