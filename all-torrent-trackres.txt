@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat May 27 14:00:04 UTC 2023
+# Last Update - Sun May 28 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 716
+# Total domains: 730
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -17,6 +17,7 @@
 107.189.10.20.sslip.io
 1337.abcvg.info
 147job.com
+1c.premierzal.ru
 2.tracker.eu.org
 204.79.238.89.in-addr.arpa.manitu.net
 3.tracker.eu.org
@@ -28,6 +29,7 @@
 5rt.tace.ru
 6.beyondth.cn
 61626c.net
+62-210-114-129.rev.poneytelecom.eu
 6ahddutb1ucc3cp.ru
 8.beyondth.cn
 9.rarbg.com
@@ -147,6 +149,7 @@ dfireworks.eu.org
 dht.bt251.com
 dht.dhtclub.com
 discord.heihachi.pw
+dmitrynegoda.com
 dn42.smrsh.net
 dns.xxtor.com
 docker-tracker-production.up.railway.app
@@ -155,6 +158,7 @@ dpiui.reedlan.com
 drteam.rocks
 drumkitx.com
 dylan-park.com
+ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 eddie4.nl
 edu.uifr.ru
 elementsbrowser.com
@@ -171,6 +175,7 @@ fh2.cmp-gaming.com
 filetracker.xyz
 finbytes.org
 fireworks.eu.org
+fleira.no
 forever-tracker.zooki.xyz
 forever.publictracker.xyz
 fosstorrents.com
@@ -178,6 +183,7 @@ free-tracker.zooki.xyz
 free.open.tracker.4.starka.st
 free.publictracker.xyz
 freedom.1776.ga
+freedomalternative.com
 ftp.pet
 funfile.org
 fxtt.ru
@@ -256,13 +262,17 @@ mts.tvbit.co
 mvgroup.org
 nagios.tks.sumy.ua
 net.richardsw.club
+netmap.top
 new-line.net
 nextcloud.brandonsli.com
 novaopcj.icu
 ns-1.x-fins.com
+ns1.monolithindustries.com
 ns331480.ip-37-187-121.eu
 ns349743.ip-91-121-106.eu
 ns389251.ovh.net
+ns575949.ip-51-222-82.net
+nullzone.fr
 nyaa.tracker.wf
 o-unkusrx.cloud.okteto.net
 oh.fuuuuuck.com
@@ -320,6 +330,7 @@ puresynergy.com
 qg.lorzl.gq
 qtstm32fan.ru
 ransan.tk
+region.nl1.privex.cc
 reisub.nsupdate.info
 rekcart.duckdns.org
 rep-art.ynh.fr
@@ -355,8 +366,10 @@ slicie.icon256.com
 smtp-relay.odysseylabel.com.au
 smtp.flawcra.cc
 smtp.loki.tel
+smurfsoft.com
 soysta-fr1.dev.sercomkc.org
 srv5.digiboy.ir
+ssb14.nohost.me
 stargrave.org
 static.202.35.76.144.clients.your-server.de
 static.46.73.46.78.clients.your-server.de
@@ -392,6 +405,7 @@ thetracker.org
 thetradersden.org
 thevault.bz
 thinking.duckdns.org
+thitgaluoc.dynu.net
 thouvenin.cloud
 thug.rocks
 tk.greedland.net
