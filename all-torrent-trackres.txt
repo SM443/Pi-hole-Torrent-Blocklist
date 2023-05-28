@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun May 28 02:00:04 UTC 2023
+# Last Update - Sun May 28 14:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 730
+# Total domains: 731
 # --------------------------------------------
 # Total size: 13K
 # --------------------------------------------
@@ -319,6 +319,7 @@ prestige.minimafia.nl
 private.anonseed.com
 proaudiotorrents.org
 psyco.fr
+public-tracker.cf
 public-tracker.ml
 public-tracker.zooki.xyz
 public.popcorn-tracker.org
