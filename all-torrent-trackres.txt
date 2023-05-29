@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun May 28 14:00:04 UTC 2023
+# Last Update - Mon May 29 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 731
+# Total domains: 743
 # --------------------------------------------
-# Total size: 13K
+# Total size: 14K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -61,7 +61,9 @@ appmeter.ru
 aruacfilmes.com.br
 asger.xyz
 astrr.ru
+astrra.space
 atrack.pow7.com
+axell24.ru
 baibako.tv
 bananas.space
 bclearning.top
@@ -115,6 +117,7 @@ buddyfly.top
 buny.uk
 bz.tracker.bz
 camera.lei001.com
+canardscitrons.nohost.me
 cancela-tu.creditofiscal.mx
 carbon-bonsai-621.appspot.com
 carr.codes
@@ -127,6 +130,7 @@ chihaya-heroku.120181311.xyz
 chihaya.de
 chihaya.toss.li
 chouchou.top
+city21.pk
 cn.pcfreetime.com
 code2chicken.nl
 commento.getblog.cn
@@ -135,6 +139,7 @@ connect.swifte.space
 creative.7o7.cx
 cutiegirl.ru
 cutscloud.duckdns.org
+d40969.acod.regrucolo.ru
 data-bg.net
 datascene.net
 daveking.com
@@ -145,6 +150,7 @@ derpyradio.net
 dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org
 deviloid.net
 devops.gay
+dex.email
 dfireworks.eu.org
 dht.bt251.com
 dht.dhtclub.com
@@ -203,6 +209,7 @@ ibksturm.synology.me
 incine.ru
 inferno.demonoid.is
 inferno.demonoid.pw
+ip119.ip-146-59-102.eu
 ipv4.tracker.harry.lu
 ipv4announce.sktorrent.eu
 ipv6.1337.cx
@@ -244,6 +251,7 @@ mail.lakameraobscura.com
 mail.realliferpg.de
 mail.zasaonsk.ga
 mail2.zelenaya.net
+market-re.quest
 masters-tb.com
 mediaclub.tv
 megatorrents.kg
@@ -271,6 +279,7 @@ ns1.monolithindustries.com
 ns331480.ip-37-187-121.eu
 ns349743.ip-91-121-106.eu
 ns389251.ovh.net
+ns557939.ip-54-39-48.net
 ns575949.ip-51-222-82.net
 nullzone.fr
 nyaa.tracker.wf
@@ -328,6 +337,7 @@ public.tracker.vraphim.com
 publictracker.ch
 publictracker.xyz
 puresynergy.com
+pxnet.ru
 qg.lorzl.gq
 qtstm32fan.ru
 ransan.tk
@@ -372,9 +382,11 @@ soysta-fr1.dev.sercomkc.org
 srv5.digiboy.ir
 ssb14.nohost.me
 stargrave.org
+static.110.82.76.144.clients.your-server.de
 static.202.35.76.144.clients.your-server.de
 static.46.73.46.78.clients.your-server.de
 static.54.161.216.95.clients.your-server.de
+su-data.com
 sukebei.tracker.wf
 sx.xxtor.com
 t.133335.xyz
