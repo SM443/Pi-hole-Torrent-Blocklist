@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue May 30 02:00:04 UTC 2023
+# Last Update - Tue May 30 14:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 743
+# Total domains: 751
 # --------------------------------------------
 # Total size: 14K
 # --------------------------------------------
@@ -14,6 +14,7 @@
 00.xxtor.com
 0205.uptm.ch
 1.tracker.eu.org
+107.182.30.76.16clouds.com
 107.189.10.20.sslip.io
 1337.abcvg.info
 147job.com
@@ -116,6 +117,7 @@ bubu.mapfactor.com
 buddyfly.top
 buny.uk
 bz.tracker.bz
+c-71-227-163-17.hsd1.wa.comcast.net
 camera.lei001.com
 canardscitrons.nohost.me
 cancela-tu.creditofiscal.mx
@@ -123,6 +125,7 @@ carbon-bonsai-621.appspot.com
 carr.codes
 cdn-1.gamecoast.org
 cdn-2.gamecoast.org
+ch3oh.ru
 chanakancloud.net
 chanchan.uchuu.co.uk
 chennuo.xyz
@@ -239,6 +242,7 @@ leefafa.tk
 leet-tracker.moe
 letsdecentralize.org
 li1406-230.members.linode.com
+li2021-95.members.linode.com
 line-net.ru
 linfan.moe
 lloria.fr
@@ -249,6 +253,7 @@ madiator.com
 mail.artixlinux.org
 mail.lakameraobscura.com
 mail.realliferpg.de
+mail.segso.net
 mail.zasaonsk.ga
 mail2.zelenaya.net
 market-re.quest
@@ -697,6 +702,7 @@ transkaroo.joustasie.net
 tribalmixes.com
 tronml.cf
 trun.tom.ru
+ts.populargamers.co.za
 tsundere.pw
 ttk.pp.ua
 u.wwwww.wtf
@@ -707,6 +713,7 @@ udp-tracker.shittyurl.org
 udp.yarr.pt
 ultra.zt.ua
 unit193.net
+unknownsite.de
 uploads.gamecoast.net
 uraniumhexafluori.de
 us-tracker.publictracker.xyz
@@ -726,6 +733,7 @@ wareztorrent.com
 wassermann.online
 web.open-tracker.cf
 wepzone.net
+wg.mortis.me
 widemus.de
 worldboxingvideoarchive.com
 www.2600.com
