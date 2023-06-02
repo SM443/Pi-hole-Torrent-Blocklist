@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Jun  1 14:00:15 UTC 2023
+# Last Update - Fri Jun  2 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 751
+# Total domains: 755
 # --------------------------------------------
 # Total size: 14K
 # --------------------------------------------
@@ -29,6 +29,7 @@
 504e163a.host.njalla.net
 5rt.tace.ru
 6.beyondth.cn
+6.pocketnet.app
 61626c.net
 62-210-114-129.rev.poneytelecom.eu
 6ahddutb1ucc3cp.ru
@@ -247,6 +248,7 @@ line-net.ru
 linfan.moe
 lloria.fr
 ln.mtahost.co
+lopatins.ru
 loushao.net
 luna.jae.su
 madiator.com
@@ -723,6 +725,7 @@ v6-tracker.0g.cx
 valakas.rollo.dnsabr.com
 vibe.community
 vibe.sleepyinternetfun.xyz
+vm3268418.24ssd.had.wf
 voxhost.fr
 vpn.flying-datacenter.de
 vps-dd0a0715.vps.ovh.net
@@ -754,6 +757,7 @@ xwt-classics.net
 xxx.xxtor.com
 xxxtor.com
 yahor.ftp.sh
+yahor.of.by
 yann5.hexanyn.fr
 yuwabits.net
 z.mercax.com
