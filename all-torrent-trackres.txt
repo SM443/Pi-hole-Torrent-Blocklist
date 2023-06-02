@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Jun  2 02:00:04 UTC 2023
+# Last Update - Fri Jun  2 14:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 755
+# Total domains: 756
 # --------------------------------------------
 # Total size: 14K
 # --------------------------------------------
@@ -741,6 +741,7 @@ widemus.de
 worldboxingvideoarchive.com
 www.2600.com
 www.all4nothin.net
+www.chouchou.club
 www.loushao.net
 www.midea123.z-media.com.cn
 www.nartlof.com.br
