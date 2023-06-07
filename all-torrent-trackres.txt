@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Jun  6 14:00:05 UTC 2023
+# Last Update - Wed Jun  7 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 757
+# Total domains: 759
 # --------------------------------------------
 # Total size: 14K
 # --------------------------------------------
@@ -431,6 +431,8 @@ thug.rocks
 tk.greedland.net
 tk.mabo.ltd
 tk.nvacg.org
+tk1.trackerservers.com
+tk1v6.trackerservers.com
 torrent-team.net
 torrent-tracker.hama3.net
 torrent.arjlover.net
