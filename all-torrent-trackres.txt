@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Jun 11 14:00:04 UTC 2023
+# Last Update - Mon Jun 12 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 763
+# Total domains: 766
 # --------------------------------------------
 # Total size: 14K
 # --------------------------------------------
@@ -168,6 +168,7 @@ dpiui.reedlan.com
 drteam.rocks
 drumkitx.com
 dylan-park.com
+dyndns.xionxiii.ovh
 ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 eddie4.nl
 edu.uifr.ru
@@ -297,6 +298,7 @@ omg.wtftrackr.xyz
 open-tracker.demonoid.ch
 open-v6.demonoid.ch
 open.4ever.tk
+open.8a.is
 open.acgnxtracker.com
 open.acgtracker.com
 open.demonii.com
@@ -325,6 +327,7 @@ opentracker.io
 opentracker.lingyurouqing.xyz
 opentracker.xyz
 p2p.0g.cx
+p2p.publictracker.xyz
 p4p.arenabg.com
 p5796a22a.dip0.t-ipconnect.de
 parag.rs
