@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Jun 12 02:00:04 UTC 2023
+# Last Update - Mon Jun 12 14:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 766
+# Total domains: 767
 # --------------------------------------------
 # Total size: 14K
 # --------------------------------------------
@@ -238,6 +238,7 @@ kinorun.com
 kokodayo.site
 koli.services
 kristof.bartanet.cz
+laszlo130.go.ro
 laze.cc
 learnbits.me
 leefafa.tk
