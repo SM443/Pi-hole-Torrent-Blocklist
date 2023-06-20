@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Jun 19 14:00:06 UTC 2023
+# Last Update - Tue Jun 20 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 767
+# Total domains: 773
 # --------------------------------------------
 # Total size: 14K
 # --------------------------------------------
@@ -199,12 +199,14 @@ ftp.pet
 funfile.org
 fxtt.ru
 git.vulnix.sh
+globalwave.no-ip.org
 grifon.info
 h3o2.me
 h4.trakx.nibba.trade
 h85-235-17-132.cust.a3fiber.se
 hcbt.pp.ua
 hdreactor.org
+home.kray.pw
 home.yxgz.club
 home.yxgz.vip
 htz3.noho.st
@@ -293,6 +295,7 @@ ns575949.ip-51-222-82.net
 nullzone.fr
 nyaa.tracker.wf
 o-unkusrx.cloud.okteto.net
+odd-hd.fr
 oh.fuuuuuck.com
 oldboystudy.com
 omg.wtftrackr.xyz
@@ -390,6 +393,7 @@ smtp-relay.odysseylabel.com.au
 smtp.flawcra.cc
 smtp.loki.tel
 smurfsoft.com
+soundmovie.ru
 soysta-fr1.dev.sercomkc.org
 srv5.digiboy.ir
 ssb14.nohost.me
@@ -666,6 +670,7 @@ tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com
 tracker.trojangogogo.site
+tracker.tryhackx.org
 tracker.tvgc.win
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
@@ -718,6 +723,7 @@ trun.tom.ru
 ts.populargamers.co.za
 tsundere.pw
 ttk.pp.ua
+ttk2.nbaonlineservice.com
 u.wwwww.wtf
 u4.trakx.crim.ist
 u6.trakx.crim.ist
