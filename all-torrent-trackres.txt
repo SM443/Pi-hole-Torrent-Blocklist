@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Jun 30 02:00:04 UTC 2023
+# Last Update - Fri Jun 30 14:00:06 UTC 2023
 # --------------------------------------------
-# Total domains: 774
+# Total domains: 778
 # --------------------------------------------
 # Total size: 14K
 # --------------------------------------------
@@ -176,6 +176,7 @@ elementsbrowser.com
 elitezones.ro
 engplus.ru
 epider.me
+escalaenbernal.com
 escorts.subventas.com
 evert.net
 exodus.desync.com
@@ -388,6 +389,7 @@ share.camoe.cn
 shizzle.hammetjus.nl
 shnflac.net
 shogiroom.com
+shubt.net
 siambt.com
 slicie.icon256.com
 smtp-relay.odysseylabel.com.au
@@ -649,6 +651,7 @@ tracker.swarm3.network
 tracker.swateam.org.uk
 tracker.swifte.space
 tracker.sylphix.com
+tracker.t-rb.org
 tracker.tambovnet.org
 tracker.tamersunion.org
 tracker.tasvideos.org
@@ -658,6 +661,7 @@ tracker.texoviva.com
 tracker.tfile.me
 tracker.theempire.bz
 tracker.theoks.net
+tracker.therarbg.com
 tracker.tiny-vps.com
 tracker.tntvillage.scambioetico.org
 tracker.torrent.eu.org
