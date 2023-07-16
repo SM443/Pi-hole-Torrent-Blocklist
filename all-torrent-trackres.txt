@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Jul 15 14:00:04 UTC 2023
+# Last Update - Sun Jul 16 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 780
+# Total domains: 781
 # --------------------------------------------
 # Total size: 14K
 # --------------------------------------------
@@ -632,6 +632,7 @@ tracker.pimpmyworld.to
 tracker.pirateparty.gr
 tracker.piratepublic.com
 tracker.pomf.se
+tracker.privateseedbox.xyz
 tracker.publicbt.com
 tracker.publictracker.xyz
 tracker.pussytorrents.org
