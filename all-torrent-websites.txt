@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent websites blocklist
 # --------------------------------------------
-# Last Update - Wed Jul 19 02:00:03 UTC 2023
+# Last Update - Wed Jul 19 05:51:08 UTC 2023
 # --------------------------------------------
-# Total domains: 3816
+# Total domains: 3844
 # --------------------------------------------
 # Total size: 62K
 # --------------------------------------------
@@ -3319,6 +3319,7 @@ www.1337xto.to
 www.1337xto.xyz
 www.1377x.is
 www.2bbit.com
+www.5mins.shop
 www.700m.bz
 www.acid-lounge.org.uk
 www.aenianos.com.br
@@ -3504,6 +3505,7 @@ www.megaups.com
 www.metalbits.org
 www.metallifukinca.com
 www.metro-torrent.com
+www.mirrorbay.top
 www.mmtorrents.hu
 www.mp3nerds.org
 www.mt-fun.com
@@ -3538,7 +3540,19 @@ www.peers.ro
 www.phoenix-tk.com
 www.phook.org
 www.pianosheets.org
+www.piraat.xyz
+www.pirate-proxy.club
+www.pirate-proxy.fun
+www.piratebayorg.net
+www.piratebayproxy.live
+www.piratebayproxy.rocks
 www.pirateclub.hu
+www.piratepiratebay.com
+www.pirateproxy.best
+www.pirateproxy.digital
+www.pirateproxy.network
+www.pirateproxy.quest
+www.piratesbay.sbs
 www.pirathub.org
 www.planetshare.org
 www.pleasuredome.org.uk
@@ -3551,6 +3565,7 @@ www.pretorians.net
 www.proaudiotorrents.org
 www.progressivetorrents.com
 www.prophecywatch.com
+www.proxifiedpiratebay.org
 www.ptfiles.org
 www.punkskahxc.com
 www.punktorrents.com
@@ -3623,6 +3638,8 @@ www.thedossier.ukonline.co.uk
 www.thedvdclub.org
 www.thegft.org
 www.thehiptracker.com
+www.thepb.cyou
+www.thepiratebay.org
 www.thepokerbay.org
 www.thorbits.org
 www.tnt-vision.com
@@ -3660,6 +3677,7 @@ www.torrentvault.org
 www.torrentz2.com.ar
 www.total-share.org
 www.toxictorrents.com
+www.tpb24.ukpass.co
 www.tracker.gunsnroses.us
 www.tracker.nano-net.ro
 www.trackermx.com
@@ -3676,9 +3694,13 @@ www.tuxdistro.com
 www.twilighttorrents.net
 www.u-torrents.ro
 www.u2torrents.com
+www.uk-pirate-bay.com
+www.uk-pirate.com
+www.ukpass.fun
 www.uktorrents.com
 www.underground-gamer.com
 www.unlimited-tracker.net
+www.unlockedpiratebay.com
 www.uubits.org
 www.veinticuatrofps.com
 www.vigorish.ru
@@ -3693,6 +3715,9 @@ www.xthor.net
 www.xtremezone.ro
 www.yeeshkul.com
 www.yuwabits.net
+www.zamunda.ch
+www.zamunda.se
+www.zelka.org
 www.zeoez.com
 www.zetatracker.org
 www.zetracker.net
@@ -3805,9 +3830,12 @@ yutorrent.net
 yuugiou-tracker.org
 yuwabits.net
 z-torrents.ru
+zamunda.ch
 zamunda.net
+zamunda.se
 zcultfm.com
 zeduga.com
+zelka.org
 zeoez.com
 zerotracker.com
 zerowing.idsoftware.com
