@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent websites blocklist
 # --------------------------------------------
-# Last Update - Wed Jul 19 14:00:03 UTC 2023
+# Last Update - Thu Jul 20 02:00:03 UTC 2023
 # --------------------------------------------
-# Total domains: 3844
+# Total domains: 3847
 # --------------------------------------------
 # Total size: 62K
 # --------------------------------------------
@@ -1491,6 +1491,7 @@ mazetorrents.net
 mazysmadhouse.net
 mazysnuthouse.org
 mb4t.info
+mc.yandex.ru Issue 156
 md-torrents.ruhome
 mdown.org
 medbit.ru
@@ -2330,6 +2331,7 @@ supertorrents.net
 supertorrents.org
 supreme-speeds.com
 supremetorrents.co.uk
+surfshark.com Issue 161
 suteki-yume.net
 svartakatten.org
 swebits.org
@@ -2665,6 +2667,7 @@ torrentfinder.ru
 torrentfr.org
 torrentfrancais.com
 torrentfreak.com
+torrentfreak.com Issue 886
 torrentfreakz.org
 torrentfriend.net
 torrentfunk.com
