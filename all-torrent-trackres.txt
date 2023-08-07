@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Aug  6 14:00:05 UTC 2023
+# Last Update - Mon Aug  7 02:00:06 UTC 2023
 # --------------------------------------------
-# Total domains: 784
+# Total domains: 785
 # --------------------------------------------
 # Total size: 14K
 # --------------------------------------------
@@ -271,6 +271,7 @@ mediaclub.tv
 megatorrents.kg
 metal.iplay.ro
 mgtracker.org
+mikrotik2.draatman.net
 milanesitracker.tekcities.com
 milliontorrent.pl
 mirror.aptus.co.tz
