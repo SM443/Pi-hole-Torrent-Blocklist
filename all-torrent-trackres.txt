@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Aug 10 02:00:05 UTC 2023
+# Last Update - Thu Aug 10 14:00:05 UTC 2023
 # --------------------------------------------
-# Total domains: 785
+# Total domains: 786
 # --------------------------------------------
 # Total size: 14K
 # --------------------------------------------
@@ -557,6 +557,7 @@ tracker.filemail.com
 tracker.filepit.to
 tracker.files.fm
 tracker.flashtorrents.org
+tracker.fnix.net
 tracker.foreverpirates.co
 tracker.fortu.io
 tracker.frozen-layer.net
