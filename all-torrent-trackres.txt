@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Aug 10 14:00:05 UTC 2023
+# Last Update - Fri Aug 11 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 786
+# Total domains: 787
 # --------------------------------------------
-# Total size: 14K
+# Total size: 15K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -612,6 +612,7 @@ tracker.monitorit4.me
 tracker.msm8916.com
 tracker.mywaifu.best
 tracker.nanoha.org
+tracker.nartlof.com.br
 tracker.nextrp.ru
 tracker.nitrix.me
 tracker.noobsubs.net
