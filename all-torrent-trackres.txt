@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Sep 11 02:00:05 UTC 2023
+# Last Update - Mon Sep 11 14:00:05 UTC 2023
 # --------------------------------------------
-# Total domains: 787
+# Total domains: 788
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -383,6 +383,7 @@ run-2.publictracker.xyz
 run.publictracker.xyz
 rutorrent.frontline-mod.com
 ryjer.com
+sabross.xyz
 sanincode.com
 sd-161673.dedibox.fr
 secure.pow7.com
