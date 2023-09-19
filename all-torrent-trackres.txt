@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Sep 18 14:00:04 UTC 2023
+# Last Update - Tue Sep 19 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 788
+# Total domains: 789
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -75,6 +75,7 @@ ben.kerbertools.xyz
 benouworldtrip.fr
 betasoftsp.com.br
 big-boss-tracker.net
+bigfoot1942.sektori.org
 bit-hdtv.com
 bithq.org
 bitseduce.com
