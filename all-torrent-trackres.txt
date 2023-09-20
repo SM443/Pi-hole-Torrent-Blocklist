@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Sep 19 14:00:05 UTC 2023
+# Last Update - Wed Sep 20 02:00:05 UTC 2023
 # --------------------------------------------
-# Total domains: 789
+# Total domains: 792
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -237,6 +237,7 @@ jeremylee.sh
 jp.moeweb.pw
 jsb.by
 jutone.com
+k.avc.cx
 k1.com.br
 kanal-4.de
 keke.re
@@ -578,6 +579,7 @@ tracker.idocdn.com
 tracker.imgoingto.icu
 tracker.internetwarriors.net
 tracker.ipfsscan.io
+tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.iriseden.fr
 tracker.iro.moe
@@ -615,6 +617,7 @@ tracker.msm8916.com
 tracker.mywaifu.best
 tracker.nanoha.org
 tracker.nartlof.com.br
+tracker.netmap.top
 tracker.nextrp.ru
 tracker.nitrix.me
 tracker.noobsubs.net
