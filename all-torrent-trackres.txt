@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Sep 29 02:00:04 UTC 2023
+# Last Update - Fri Sep 29 14:00:05 UTC 2023
 # --------------------------------------------
-# Total domains: 793
+# Total domains: 794
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -799,6 +799,7 @@ yahor.of.by
 yann5.hexanyn.fr
 yuwabits.net
 z.mercax.com
+z.paranoid.agency
 zecircle.xyz
 zephir.monocul.us
 zer0day.ch
