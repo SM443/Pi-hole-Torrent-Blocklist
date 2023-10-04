@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Oct  4 02:00:04 UTC 2023
+# Last Update - Wed Oct  4 14:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 795
+# Total domains: 796
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -795,6 +795,7 @@ xtremex.herokuapp.com
 xwt-classics.net
 xxx.xxtor.com
 xxxtor.com
+y.paranoid.agency
 yahor.ftp.sh
 yahor.of.by
 yann5.hexanyn.fr
