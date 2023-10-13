@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Oct 12 14:00:05 UTC 2023
+# Last Update - Fri Oct 13 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 798
+# Total domains: 799
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -181,6 +181,7 @@ engplus.ru
 epider.me
 escalaenbernal.com
 escorts.subventas.com
+evan.im
 evert.net
 exodus.desync.com
 explodie.org
