@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Oct 15 02:00:04 UTC 2023
+# Last Update - Sun Oct 15 14:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 799
+# Total domains: 800
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -107,6 +107,7 @@ bt.oiyo.tk
 bt.okmp3.ru
 bt.plc.mx
 bt.pusacg.org
+bt.xcty.eu.org
 bt.zlofenix.org
 bt1.archive.org
 bt1.letpo.com
