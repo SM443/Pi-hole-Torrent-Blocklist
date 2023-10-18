@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Oct 18 02:00:04 UTC 2023
+# Last Update - Wed Oct 18 14:00:05 UTC 2023
 # --------------------------------------------
-# Total domains: 801
+# Total domains: 802
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -793,6 +793,7 @@ www.skynetcenter.me
 www.torrent.eu.org
 www.wareztorrent.com
 www.zhaohu.love
+x.hz.is
 x.paranoid.agency
 x7x.up.railway.app
 xarcotic.com
