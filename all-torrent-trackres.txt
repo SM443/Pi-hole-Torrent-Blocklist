@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Oct 19 14:00:05 UTC 2023
+# Last Update - Fri Oct 20 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 804
+# Total domains: 805
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -345,6 +345,7 @@ p4p.arenabg.com
 p5796a22a.dip0.t-ipconnect.de
 parag.rs
 peerfect.org
+pirate.hz.is
 pldm.ml
 potuk.com
 pow7.com
