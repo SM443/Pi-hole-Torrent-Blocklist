@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Nov 19 14:00:04 UTC 2023
+# Last Update - Mon Nov 20 02:00:05 UTC 2023
 # --------------------------------------------
-# Total domains: 811
+# Total domains: 812
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -661,6 +661,7 @@ tracker.pussytorrents.org
 tracker.qu.ax
 tracker.quix.cf
 tracker.renfei.net
+tracker.rev.pm
 tracker.rp-api.tech
 tracker.rsplwe.com
 tracker.sakurato.art
