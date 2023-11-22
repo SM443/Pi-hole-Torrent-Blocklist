@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Nov 21 14:00:05 UTC 2023
+# Last Update - Wed Nov 22 02:00:05 UTC 2023
 # --------------------------------------------
-# Total domains: 812
+# Total domains: 813
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -714,6 +714,7 @@ tracker.vulnix.sh
 tracker.wellknownclub.net
 tracker.yangxiaoguozi.cn
 tracker.yarr.pt
+tracker.yemekyedim.com
 tracker.ygsub.com
 tracker.yoshi210.com
 tracker.yuelili.com
