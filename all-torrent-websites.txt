@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent websites blocklist
 # --------------------------------------------
-# Last Update - Sat Nov 25 14:00:03 UTC 2023
+# Last Update - Sun Nov 26 02:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 3847
+# Total domains: 3851
 # --------------------------------------------
 # Total size: 62K
 # --------------------------------------------
@@ -239,9 +239,12 @@ atomico-torrent.com
 atrack-asia-s1.114913.xyz
 atrack.pow7.com
 audiobit.ru
+audiobookbay.is
 audiobookbay.la
+audiobookbay.li
 audiobookbay.me
 audiobookbay.nl
+audiobookbay.se
 audiobookol.com
 audiofarm.cc
 audionews.org
@@ -2230,6 +2233,7 @@ shellife.eu
 shi-fa.cjb.net
 shnflac.net
 showbits.org
+showrss.info
 siambit.com
 siambt.com
 sidewinderx.sytes.net
