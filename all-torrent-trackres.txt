@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Dec 12 14:00:13 UTC 2023
+# Last Update - Wed Dec 13 02:00:05 UTC 2023
 # --------------------------------------------
-# Total domains: 820
+# Total domains: 821
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -382,6 +382,7 @@ retracker.hotplug.ru
 retracker.joxnet.ru
 retracker.krs-ix.ru
 retracker.lanta-net.ru
+retracker.lanta.me
 retracker.local.msn-net.ru
 retracker.netbynet.ru
 retracker.nts.su
