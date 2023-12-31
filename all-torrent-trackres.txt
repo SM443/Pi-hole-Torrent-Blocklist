@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sun Dec 31 02:00:04 UTC 2023
+# Last Update - Sun Dec 31 14:00:04 UTC 2023
 # --------------------------------------------
-# Total domains: 823
+# Total domains: 824
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -11,6 +11,7 @@
 # --------------------------------------------
 # Open an issue for whitelisting.
 # --------------------------------------------
+00.alarmasqueretaro.com
 00.xxtor.com
 0205.uptm.ch
 1.tracker.eu.org
