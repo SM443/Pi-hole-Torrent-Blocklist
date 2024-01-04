@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Jan  4 02:00:05 UTC 2024
+# Last Update - Thu Jan  4 14:00:07 UTC 2024
 # --------------------------------------------
-# Total domains: 826
+# Total domains: 829
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -94,6 +94,7 @@ bms-hosxp.com
 bobbialbano.com
 box.ossete.eu.org
 boysbitte.be
+brokenstones.is
 bruh.cluster.ws
 bt-club.ws
 bt-tracker.gamexp.ru
@@ -229,6 +230,7 @@ ibksturm.synology.me
 incine.ru
 inferno.demonoid.is
 inferno.demonoid.pw
+ip.getcrazy.me
 ip119.ip-146-59-102.eu
 ipv4.tracker.harry.lu
 ipv4announce.sktorrent.eu
@@ -288,6 +290,7 @@ milanesitracker.tekcities.com
 milliontorrent.pl
 mirror.aptus.co.tz
 mixfiend.com
+mma-tracker.org
 moeweb.pw
 montreal.nyap2p.com
 moonburrow.club
