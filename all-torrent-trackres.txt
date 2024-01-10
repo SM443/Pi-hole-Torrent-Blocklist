@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Jan 10 02:00:05 UTC 2024
+# Last Update - Wed Jan 10 14:00:04 UTC 2024
 # --------------------------------------------
-# Total domains: 830
+# Total domains: 831
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -280,6 +280,7 @@ mail.segso.net
 mail.zasaonsk.ga
 mail2.zelenaya.net
 market-re.quest
+martin-gebhardt.eu
 masters-tb.com
 mediaclub.tv
 megatorrents.kg
