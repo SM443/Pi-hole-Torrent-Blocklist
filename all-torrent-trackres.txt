@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Jan 10 14:00:04 UTC 2024
+# Last Update - Thu Jan 11 02:00:05 UTC 2024
 # --------------------------------------------
-# Total domains: 831
+# Total domains: 835
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -45,6 +45,7 @@ a.leopard-raws.org
 aaa.army
 aarsen.me
 abir0dev.github.io
+aboutbeautifulgallopinghorsesinthegreenpasture.online
 abufinzio.monocul.us
 academic-p2p.appspot.com
 acg.rip
@@ -409,6 +410,7 @@ sd-161673.dedibox.fr
 secure.pow7.com
 shadowshq.eddie4.nl
 shadowshq.yi.org
+shahidrazi.online
 share.camoe.cn
 shizzle.hammetjus.nl
 shnflac.net
@@ -496,6 +498,8 @@ tr.doogh.club
 tr.fuckbitcoin.xyz
 tr.highstar.shop
 tr.kxmp.cf
+tr.qfruiti.com
+tr.qfruiti.in
 tr.ready4.icu
 tr.torland.ga
 tr2.cubonegro.lol
