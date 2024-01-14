@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Jan 13 14:00:05 UTC 2024
+# Last Update - Sun Jan 14 02:00:04 UTC 2024
 # --------------------------------------------
-# Total domains: 836
+# Total domains: 837
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -378,6 +378,7 @@ puresynergy.com
 pxnet.ru
 qg.lorzl.gq
 qtstm32fan.ru
+r.l5.ca
 ransan.tk
 region.nl1.privex.cc
 reisub.nsupdate.info
