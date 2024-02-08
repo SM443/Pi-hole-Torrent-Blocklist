@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Feb  8 02:00:05 UTC 2024
+# Last Update - Thu Feb  8 14:00:06 UTC 2024
 # --------------------------------------------
-# Total domains: 840
+# Total domains: 841
 # --------------------------------------------
 # Total size: 15K
 # --------------------------------------------
@@ -360,6 +360,7 @@ p5796a22a.dip0.t-ipconnect.de
 parag.rs
 peerfect.org
 pirate.hz.is
+pirate.t-1.org
 pldm.ml
 potuk.com
 pow7.com
