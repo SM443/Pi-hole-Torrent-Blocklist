@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Feb 12 14:00:05 UTC 2024
+# Last Update - Tue Feb 13 02:00:04 UTC 2024
 # --------------------------------------------
-# Total domains: 842
+# Total domains: 844
 # --------------------------------------------
-# Total size: 15K
+# Total size: 16K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -234,6 +234,7 @@ inferno.demonoid.is
 inferno.demonoid.pw
 ip.getcrazy.me
 ip119.ip-146-59-102.eu
+ipv4.rer.lol
 ipv4.tracker.harry.lu
 ipv4announce.sktorrent.eu
 ipv6.1337.cx
@@ -341,6 +342,7 @@ open.touki.ru
 open.tracker.cl
 open.tracker.ink
 open.u-p.pw
+open.va.wiki
 open.xxtor.com
 open6.demonii.com
 openbittorrent.com
