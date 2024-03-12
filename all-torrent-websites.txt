@@ -1494,7 +1494,6 @@ mazetorrents.net
 mazysmadhouse.net
 mazysnuthouse.org
 mb4t.info
-mc.yandex.ru Issue 156
 md-torrents.ruhome
 mdown.org
 medbit.ru
@@ -2335,7 +2334,6 @@ supertorrents.net
 supertorrents.org
 supreme-speeds.com
 supremetorrents.co.uk
-surfshark.com Issue 161
 suteki-yume.net
 svartakatten.org
 swebits.org
@@ -2590,7 +2588,6 @@ torrent.movie
 torrent.mp3quran.net
 torrent.neptunepinkfloyd.co.uk
 torrent.net13.ro
-torrent.nwps.w
 torrent.nwps.ws
 torrent.nz
 torrent.org.cn
@@ -2671,7 +2668,6 @@ torrentfinder.ru
 torrentfr.org
 torrentfrancais.com
 torrentfreak.com
-torrentfreak.com Issue 886
 torrentfreakz.org
 torrentfriend.net
 torrentfunk.com
