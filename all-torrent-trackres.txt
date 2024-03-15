@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu Mar 14 14:00:05 UTC 2024
+# Last Update - Fri Mar 15 02:00:04 UTC 2024
 # --------------------------------------------
-# Total domains: 848
+# Total domains: 849
 # --------------------------------------------
 # Total size: 16K
 # --------------------------------------------
@@ -496,6 +496,7 @@ torrenttracker.nwc.acsalaska.net
 torrentzilla.org
 touhou.kawaiiarts.com
 tp.m-team.cc
+tr.aag.moe
 tr.abiir.top
 tr.abir.ga
 tr.abirxo.cf
