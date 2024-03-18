@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Mar 18 02:00:05 UTC 2024
+# Last Update - Mon Mar 18 14:00:07 UTC 2024
 # --------------------------------------------
-# Total domains: 852
+# Total domains: 853
 # --------------------------------------------
 # Total size: 16K
 # --------------------------------------------
@@ -415,6 +415,7 @@ sabross.xyz
 sanincode.com
 sd-161673.dedibox.fr
 secure.pow7.com
+seedpeer.net
 shadowshq.eddie4.nl
 shadowshq.yi.org
 shahidrazi.online
