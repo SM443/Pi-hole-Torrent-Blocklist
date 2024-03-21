@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Mar 20 14:00:05 UTC 2024
+# Last Update - Thu Mar 21 02:00:06 UTC 2024
 # --------------------------------------------
-# Total domains: 853
+# Total domains: 854
 # --------------------------------------------
 # Total size: 16K
 # --------------------------------------------
@@ -58,6 +58,7 @@ adt.adt-textile.ru
 aegir.sexy
 aez-srv.srv00.com
 all4nothin.net
+amigacity.xyz
 anidex.moe
 anzix.net
 api.alarmasqueretaro.com
