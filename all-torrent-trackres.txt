@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Mar 30 14:00:05 UTC 2024
+# Last Update - Sun Mar 31 02:00:05 UTC 2024
 # --------------------------------------------
-# Total domains: 856
+# Total domains: 857
 # --------------------------------------------
 # Total size: 16K
 # --------------------------------------------
@@ -332,6 +332,7 @@ open.acgnxtracker.com
 open.acgtracker.com
 open.demonii.com
 open.demonii.si
+open.demonoid.ch
 open.dstud.io
 open.free-tracker.ga
 open.kickasstracker.com
