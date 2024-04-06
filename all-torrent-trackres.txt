@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Apr  5 14:00:04 UTC 2024
+# Last Update - Sat Apr  6 02:00:05 UTC 2024
 # --------------------------------------------
-# Total domains: 857
+# Total domains: 858
 # --------------------------------------------
 # Total size: 16K
 # --------------------------------------------
@@ -376,6 +376,7 @@ psyco.fr
 public-tracker.cf
 public-tracker.ml
 public-tracker.zooki.xyz
+public.demonoid.ch
 public.popcorn-tracker.org
 public.publictracker.xyz
 public.tracker.vraphim.com
