@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri Apr 26 02:00:05 UTC 2024
+# Last Update - Fri Apr 26 14:00:05 UTC 2024
 # --------------------------------------------
-# Total domains: 864
+# Total domains: 865
 # --------------------------------------------
 # Total size: 16K
 # --------------------------------------------
@@ -807,6 +807,7 @@ ts.populargamers.co.za
 tsundere.pw
 ttk.pp.ua
 ttk2.nbaonlineservice.com
+ttr.croco.net
 u.peer-exchange.download
 u.wwwww.wtf
 u4.trakx.crim.ist
