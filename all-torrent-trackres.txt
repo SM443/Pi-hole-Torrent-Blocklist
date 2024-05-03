@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Thu May  2 14:00:07 UTC 2024
+# Last Update - Fri May  3 02:00:09 UTC 2024
 # --------------------------------------------
-# Total domains: 868
+# Total domains: 870
 # --------------------------------------------
 # Total size: 16K
 # --------------------------------------------
@@ -63,6 +63,7 @@ anidex.moe
 anzix.net
 api.alarmasqueretaro.com
 api.bitumconference.ru
+api.boletera.org
 app.icon256.com
 appmeter.ru
 aruacfilmes.com.br
@@ -527,6 +528,7 @@ track3r.site
 tracker-cn.zhuqiy.eu.org
 tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
+tracker-zhuqiy.dgj055.icu
 tracker.0o.is
 tracker.0x.tf
 tracker.0x7c0.com
