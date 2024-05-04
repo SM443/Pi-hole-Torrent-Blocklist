@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Fri May  3 14:00:07 UTC 2024
+# Last Update - Sat May  4 02:00:13 UTC 2024
 # --------------------------------------------
-# Total domains: 870
+# Total domains: 872
 # --------------------------------------------
 # Total size: 16K
 # --------------------------------------------
@@ -527,6 +527,7 @@ track.plop.pm
 track3r.site
 tracker-cn.zhuqiy.eu.org
 tracker-udp.gbitt.info
+tracker-us.silksa.co.za
 tracker-v6.zooki.xyz
 tracker-zhuqiy.dgj055.icu
 tracker.0o.is
@@ -718,6 +719,7 @@ tracker.sbsub.com
 tracker.servequake.com
 tracker.sheesh.rip
 tracker.shkinev.me
+tracker.silksa.co.za
 tracker.skynetcloud.site
 tracker.skyts.net
 tracker.sloppyta.co
