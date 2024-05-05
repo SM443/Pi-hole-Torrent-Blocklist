@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat May  4 14:00:06 UTC 2024
+# Last Update - Sun May  5 02:00:07 UTC 2024
 # --------------------------------------------
-# Total domains: 872
+# Total domains: 873
 # --------------------------------------------
 # Total size: 16K
 # --------------------------------------------
@@ -759,6 +759,7 @@ tracker.trojangogogo.site
 tracker.tryhackx.org
 tracker.tvgc.win
 tracker.tvunderground.org.ru
+tracker.uraniumhexafluori.de
 tracker.uw0.xyz
 tracker.v6speed.org
 tracker.vds.nz
