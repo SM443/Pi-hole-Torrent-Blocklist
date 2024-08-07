@@ -1,11 +1,11 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Aug  7 02:00:08 UTC 2024
+# Last Update - Wed Aug  7 14:00:07 UTC 2024
 # --------------------------------------------
-# Total domains: 895
+# Total domains: 896
 # --------------------------------------------
-# Total size: 16K
+# Total size: 17K
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -88,6 +88,7 @@ bitseduce.com
 bitsparadise.info
 bittorrent-tracker.e-n-c-r-y-p-t.net
 bittorrent.gongt.net
+bittorrent.service.gongt.me
 biztorrents.com
 bjlt.zhuqiy.eu.org
 black-bird.ynh.fr
