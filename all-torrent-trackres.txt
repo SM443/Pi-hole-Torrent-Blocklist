@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Sat Sep 14 02:00:07 UTC 2024
+# Last Update - Sat Sep 14 14:00:07 UTC 2024
 # --------------------------------------------
-# Total domains: 904
+# Total domains: 905
 # --------------------------------------------
 # Total size: 17K
 # --------------------------------------------
@@ -161,6 +161,7 @@ connect.swifte.space
 creative.7o7.cx
 cutiegirl.ru
 cutscloud.duckdns.org
+d13bttrck.duckdns.org
 d40969.acod.regrucolo.ru
 data-bg.net
 dataforai.com
