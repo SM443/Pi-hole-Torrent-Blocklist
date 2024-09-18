@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Wed Sep 18 02:00:07 UTC 2024
+# Last Update - Wed Sep 18 14:00:08 UTC 2024
 # --------------------------------------------
-# Total domains: 912
+# Total domains: 913
 # --------------------------------------------
 # Total size: 17K
 # --------------------------------------------
@@ -681,6 +681,7 @@ tracker.kali.org
 tracker.kamigami.org
 tracker.kawaii.id
 tracker.kmzs123.com
+tracker.kmzs123.top
 tracker.kuroy.me
 tracker.leech.ie
 tracker.leechers-paradise.org
