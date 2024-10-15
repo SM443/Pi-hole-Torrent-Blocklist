@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Mon Oct 14 14:00:08 UTC 2024
+# Last Update - Tue Oct 15 02:00:07 UTC 2024
 # --------------------------------------------
-# Total domains: 923
+# Total domains: 924
 # --------------------------------------------
 # Total size: 17K
 # --------------------------------------------
@@ -371,6 +371,7 @@ opentracker.lingyurouqing.xyz
 opentracker.xyz
 openwrt.lingyurouqing.xyz
 p2p.0g.cx
+p2p.azu.red
 p2p.publictracker.xyz
 p4p.arenabg.com
 p5796a22a.dip0.t-ipconnect.de
