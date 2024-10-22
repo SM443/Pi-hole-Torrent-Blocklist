@@ -1,9 +1,9 @@
 # --------------------------------------------
 # Pi-hole public torrent tracker blocklist
 # --------------------------------------------
-# Last Update - Tue Oct 22 02:00:07 UTC 2024
+# Last Update - Tue Oct 22 14:00:10 UTC 2024
 # --------------------------------------------
-# Total domains: 924
+# Total domains: 926
 # --------------------------------------------
 # Total size: 17K
 # --------------------------------------------
@@ -548,6 +548,7 @@ tr1.aag.moe
 tr2.cubonegro.lol
 tr2.trkb.ru
 tr2.ysagin.top
+tr3.ysagin.top
 tr4ck3r.duckdns.org
 track.plop.pm
 track3r.site
@@ -681,6 +682,7 @@ tracker.itscraftsoftware.my.id
 tracker.jamesthebard.net
 tracker.jdx3.org
 tracker.jiesen.life
+tracker.jobser.eu
 tracker.jonaslsa.com
 tracker.jordan.im
 tracker.joybomb.tw
